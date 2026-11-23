@@ -1,0 +1,1405 @@
+{
+  "selected": [
+    {
+      "text": "Arab Spring: After months of protests in Yemen, President Ali Abdullah Saleh (pictured) agreed to step down; he subsequently ceded power to Vice President Abdrabbuh Mansour Hadi in February 2012.",
+      "year": 2011,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Arab_Spring",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Arab Spring</span></span>",
+          "titles": {
+            "canonical": "Arab_Spring",
+            "normalized": "Arab Spring",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Arab Spring</span></span>"
+          },
+          "pageid": 30655949,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tunisian_Revolution_Protest.jpg/330px-Tunisian_Revolution_Protest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 233
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tunisian_Revolution_Protest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 640,
+            "height": 451
+          },
+          "lang": "en",
+          "description": "2010s protests and revolutions in the Arab world",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Arab_Spring",
+              "revisions": "https://en.wikipedia.org/wiki/Arab_Spring?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Arab_Spring?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Arab_Spring"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Arab_Spring",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Arab_Spring",
+              "edit": "https://en.wikipedia.org/wiki/Arab_Spring?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Arab_Spring"
+            }
+          },
+          "extract": "The Arab Spring was a series of pro-democracy anti-government protests, uprisings, and armed rebellions that spread across much of the Arab world in the early 2010s. It began in Tunisia in response to the death of Mohamed Bouazizi by self-immolation. From Tunisia, the protests initially spread to five other countries: Libya, Egypt, Yemen, Syria and Bahrain. The rulers deposed include: Zine El Abidine Ben Ali of Tunisia, Muammar Gaddafi of Libya, and Hosni Mubarak of Egypt, all in 2011; and Ali Abdullah Saleh of Yemen in 2012. Major uprisings and social violence occurred, including riots, civil wars, or insurgencies. Sustained street demonstrations took place in Morocco, Iraq, Algeria, Lebanon, Jordan, Kuwait, Oman and Sudan. Minor protests took place in Djibouti, Mauritania, Palestine, Saudi Arabia and the Western Sahara. A major slogan of the demonstrators in the Arab world is ash-shaʻb yurīd isqāṭ an-niẓām!.",
+          "normalizedtitle": "Arab Spring"
+        },
+        {
+          "type": "standard",
+          "title": "Yemeni_revolution",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Yemeni revolution</span></span>",
+          "titles": {
+            "canonical": "Yemeni_revolution",
+            "normalized": "Yemeni revolution",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Yemeni revolution</span></span>"
+          },
+          "pageid": 30656841,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2011%E2%80%932012_Yemeni_revolution_%28from_Al_Jazeera%29_-_20110301-14.jpg/330px-2011%E2%80%932012_Yemeni_revolution_%28from_Al_Jazeera%29_-_20110301-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 219
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/2011%E2%80%932012_Yemeni_revolution_%28from_Al_Jazeera%29_-_20110301-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 2288,
+            "height": 1520
+          },
+          "lang": "en",
+          "description": "Yemeni upheaval occurring simultaneously with the Arab Spring (2011)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Yemeni_revolution",
+              "revisions": "https://en.wikipedia.org/wiki/Yemeni_revolution?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Yemeni_revolution?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Yemeni_revolution"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Yemeni_revolution",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Yemeni_revolution",
+              "edit": "https://en.wikipedia.org/wiki/Yemeni_revolution?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Yemeni_revolution"
+            }
+          },
+          "extract": "The Yemeni revolution, also known as the Yemeni intifada, was a series of major anti-government protests and armed uprisings that raged through Yemen from January 2011 to February 2012. It occurred concurrently with the Arab Spring that broke out throughout the Middle East and North Africa in 2011. In its early phase, protests in Yemen were initially against unemployment, economic conditions, corruption, and the authoritarian regime led by President Ali Abdullah Saleh as well as against the government's proposals to modify Yemen's constitution. The protesters' demands then escalated to calls for the resignation of Saleh. Mass defections from the military, as well as from Saleh's government, effectively rendered much of the country outside of the government's control, and protesters vowed to defy its authority.",
+          "normalizedtitle": "Yemeni revolution"
+        },
+        {
+          "type": "standard",
+          "title": "Ali_Abdullah_Saleh",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ali Abdullah Saleh</span></span>",
+          "titles": {
+            "canonical": "Ali_Abdullah_Saleh",
+            "normalized": "Ali Abdullah Saleh",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ali Abdullah Saleh</span></span>"
+          },
+          "pageid": 215609,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Nicole_Fontaine_and_Ali_Abdullah_Saleh%2C_2000_%281%29_%28cropped2%29.jpg/330px-Nicole_Fontaine_and_Ali_Abdullah_Saleh%2C_2000_%281%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 404
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nicole_Fontaine_and_Ali_Abdullah_Saleh%2C_2000_%281%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 795,
+            "height": 973
+          },
+          "lang": "en",
+          "description": "President of Yemen from 1978 to 2012",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh",
+              "revisions": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Ali_Abdullah_Saleh"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Ali_Abdullah_Saleh",
+              "edit": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Ali_Abdullah_Saleh"
+            }
+          },
+          "extract": "Ali Abdullah Saleh was a Yemeni military officer and politician who served as the first president of the Republic of Yemen from the Yemeni unification in 1990 until his resignation in 2012, following the Yemeni revolution. Previously, he had served as the fifth and last President of the Yemen Arab Republic, from July 1978 to 22 May 1990, after the assassination of President Ahmad al-Ghashmi. al-Ghashmi had earlier appointed Saleh as military governor in Taiz.",
+          "normalizedtitle": "Ali Abdullah Saleh"
+        }
+      ]
+    },
+    {
+      "text": "A crowd of people on their way to register Esmael Mangudadatu's candidacy for governor of Maguindanao, Philippines, were kidnapped and killed by supporters of his rival, resulting in 58 deaths.",
+      "year": 2009,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Esmael_Mangudadatu",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Esmael Mangudadatu</span></span>",
+          "titles": {
+            "canonical": "Esmael_Mangudadatu",
+            "normalized": "Esmael Mangudadatu",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Esmael Mangudadatu</span></span>"
+          },
+          "pageid": 25190834,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Rep._Esmael_Mangudadatu_%2820th_Congress%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 288,
+            "height": 387
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Rep._Esmael_Mangudadatu_%2820th_Congress%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 288,
+            "height": 387
+          },
+          "lang": "en",
+          "description": "Filipino politician (born 1968)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Esmael_Mangudadatu",
+              "revisions": "https://en.wikipedia.org/wiki/Esmael_Mangudadatu?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Esmael_Mangudadatu?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Esmael_Mangudadatu"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Esmael_Mangudadatu",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Esmael_Mangudadatu",
+              "edit": "https://en.wikipedia.org/wiki/Esmael_Mangudadatu?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Esmael_Mangudadatu"
+            }
+          },
+          "extract": "Esmael \"Toto\" Gaguil Mangudadatu is a Filipino politician who is the representative of Maguindanao del Sur's lone district, having been elected in 2025. He previously served as the representative of the then-undivided Maguindanao's 2nd district from 2019 to 2022. He also served as the governor of Maguindanao from 2010 to 2019. In Buluan town, he served as the mayor from 1998 to 2007, and vice mayor from 2007 to 2010.",
+          "normalizedtitle": "Esmael Mangudadatu"
+        },
+        {
+          "type": "standard",
+          "title": "Maguindanao",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Maguindanao</span></span>",
+          "titles": {
+            "canonical": "Maguindanao",
+            "normalized": "Maguindanao",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Maguindanao</span></span>"
+          },
+          "pageid": 297363,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Maguindanao_%28province%29.svg/330px-Flag_of_Maguindanao_%28province%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Maguindanao_%28province%29.svg/960px-Flag_of_Maguindanao_%28province%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 512,
+            "height": 341
+          },
+          "lang": "en",
+          "description": "Philippine province (1973–2023)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Maguindanao",
+              "revisions": "https://en.wikipedia.org/wiki/Maguindanao?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Maguindanao?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Maguindanao"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Maguindanao",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Maguindanao",
+              "edit": "https://en.wikipedia.org/wiki/Maguindanao?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Maguindanao"
+            }
+          },
+          "extract": "Maguindanao was a province of the Philippines located in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM). From 2014 to 2023, its provincial capital was Buluan, but the legislative branch of government, the Maguindanao Provincial Board, convened at the old provincial capitol in Sultan Kudarat. It bordered Lanao del Sur to the north, Cotabato to the east, Sultan Kudarat to the south, and Illana Bay to the west.",
+          "normalizedtitle": "Maguindanao"
+        },
+        {
+          "type": "standard",
+          "title": "Maguindanao_massacre",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Maguindanao massacre</span></span>",
+          "titles": {
+            "canonical": "Maguindanao_massacre",
+            "normalized": "Maguindanao massacre",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Maguindanao massacre</span></span>"
+          },
+          "pageid": 25187824,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Maguindanao_in_Philippines.svg/330px-Maguindanao_in_Philippines.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 435
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Maguindanao_in_Philippines.svg/1920px-Maguindanao_in_Philippines.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1871,
+            "height": 2468
+          },
+          "lang": "en",
+          "description": "2009 politically motivated mass murder in Maguindanao, Philippines",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Maguindanao_massacre",
+              "revisions": "https://en.wikipedia.org/wiki/Maguindanao_massacre?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Maguindanao_massacre?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Maguindanao_massacre"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Maguindanao_massacre",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Maguindanao_massacre",
+              "edit": "https://en.wikipedia.org/wiki/Maguindanao_massacre?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Maguindanao_massacre"
+            }
+          },
+          "extract": "The Maguindanao massacre occurred on the morning of November 23, 2009, in the town of Ampatuan in Maguindanao, Philippines. The 58 victims were on their way to file a certificate of candidacy for Esmael Mangudadatu, vice-mayor of Buluan, when they were kidnapped and later killed. Mangudadatu was challenging Datu Unsay mayor Andal Ampatuan Jr., son of the incumbent Maguindanao governor Andal Ampatuan Sr. and member of one of Mindanao's leading Muslim political clans, in the forthcoming Maguindanao gubernatorial election, part of the national elections in 2010. Those killed included Mangudadatu's wife, his two sisters, journalists, lawyers, aides, and motorists who were witnesses or were mistakenly identified as part of the convoy.",
+          "normalizedtitle": "Maguindanao massacre"
+        }
+      ]
+    },
+    {
+      "text": "MS Explorer became the first cruise ship to sink in the Southern Ocean.",
+      "year": 2007,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "MV_Explorer_(1969)",
+          "displaytitle": "MV <i>Explorer</i> (1969)",
+          "titles": {
+            "canonical": "MV_Explorer_(1969)",
+            "normalized": "MV Explorer (1969)",
+            "display": "MV <i>Explorer</i> (1969)"
+          },
+          "pageid": 14376043,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/MS-Explorer-2005-1.jpg/330px-MS-Explorer-2005-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 219
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/MS-Explorer-2005-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3008,
+            "height": 2000
+          },
+          "lang": "en",
+          "description": "Antarctic Ocean cruise ship sunk in 2007",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/MV_Explorer_(1969)",
+              "revisions": "https://en.wikipedia.org/wiki/MV_Explorer_(1969)?action=history",
+              "edit": "https://en.wikipedia.org/wiki/MV_Explorer_(1969)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:MV_Explorer_(1969)"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/MV_Explorer_(1969)",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/MV_Explorer_(1969)",
+              "edit": "https://en.wikipedia.org/wiki/MV_Explorer_(1969)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:MV_Explorer_(1969)"
+            }
+          },
+          "extract": "MS Explorer or MV Explorer was a Liberian-registered cruise ship, used for Antarctic cruising. She was the first cruise ship to sink there, after impact with the Antarctic pack ice on 23 November 2007. All passengers and crew were rescued.",
+          "normalizedtitle": "MV Explorer (1969)"
+        },
+        {
+          "type": "standard",
+          "title": "Cruise_ship",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cruise ship</span></span>",
+          "titles": {
+            "canonical": "Cruise_ship",
+            "normalized": "Cruise ship",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cruise ship</span></span>"
+          },
+          "pageid": 314855,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg/330px-Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 186
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg/3840px-Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 4947,
+            "height": 2785
+          },
+          "lang": "en",
+          "description": "Passenger ship used for pleasure voyages",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Cruise_ship",
+              "revisions": "https://en.wikipedia.org/wiki/Cruise_ship?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Cruise_ship?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Cruise_ship"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Cruise_ship",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Cruise_ship",
+              "edit": "https://en.wikipedia.org/wiki/Cruise_ship?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Cruise_ship"
+            }
+          },
+          "extract": "Cruise ships are large passenger ships used mainly for vacationing. Unlike ocean liners, which are used for transport, cruise ships typically embark on round-trip voyages to various ports of call, where passengers may go on shore excursions.",
+          "normalizedtitle": "Cruise ship"
+        },
+        {
+          "type": "standard",
+          "title": "Southern_Ocean",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Southern Ocean</span></span>",
+          "titles": {
+            "canonical": "Southern_Ocean",
+            "normalized": "Southern Ocean",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Southern Ocean</span></span>"
+          },
+          "pageid": 20611428,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Location_Southern_Ocean.svg/330px-Location_Southern_Ocean.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Location_Southern_Ocean.svg/960px-Location_Southern_Ocean.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 541,
+            "height": 541
+          },
+          "lang": "en",
+          "description": "Ocean around Antarctica",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Southern_Ocean",
+              "revisions": "https://en.wikipedia.org/wiki/Southern_Ocean?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Southern_Ocean?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Southern_Ocean"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Southern_Ocean",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Southern_Ocean",
+              "edit": "https://en.wikipedia.org/wiki/Southern_Ocean?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Southern_Ocean"
+            }
+          },
+          "extract": "The Southern Ocean, also known as the Antarctic Ocean, comprises the southernmost waters of the World Ocean, generally taken to be south of 60° S latitude and encircling Antarctica. With a size of 21,960,000 km2 (8,480,000 mi2), it is the second-smallest of the five principal oceanic divisions, smaller than the Pacific, Atlantic and Indian oceans, and larger than the Arctic Ocean.",
+          "normalizedtitle": "Southern Ocean"
+        }
+      ]
+    },
+    {
+      "text": "Rose Revolution: Eduard Shevardnadze resigned as President of Georgia following weeks of mass protests over disputed election results.",
+      "year": 2003,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Rose_Revolution",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rose Revolution</span></span>",
+          "titles": {
+            "canonical": "Rose_Revolution",
+            "normalized": "Rose Revolution",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rose Revolution</span></span>"
+          },
+          "pageid": 637627,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Georgia%2C_Tbilisi_-_Rose_Revolution_%282003%29.jpg/330px-Georgia%2C_Tbilisi_-_Rose_Revolution_%282003%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 248
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Georgia%2C_Tbilisi_-_Rose_Revolution_%282003%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 916,
+            "height": 687
+          },
+          "lang": "en",
+          "description": "2003 popular uprising in Georgia",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Rose_Revolution",
+              "revisions": "https://en.wikipedia.org/wiki/Rose_Revolution?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Rose_Revolution?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Rose_Revolution"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Rose_Revolution",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Rose_Revolution",
+              "edit": "https://en.wikipedia.org/wiki/Rose_Revolution?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Rose_Revolution"
+            }
+          },
+          "extract": "The Rose Revolution or Revolution of Roses was a nonviolent change of power that occurred in Georgia in November 2003. The event was brought about by widespread protests over the disputed parliamentary elections and culminated in the resignation of President Eduard Shevardnadze, which marked the end of Soviet-era leadership in the country. The revolution derives its name from the climactic moment, when demonstrators led by Mikheil Saakashvili stormed the Parliament session with red roses in hand.",
+          "normalizedtitle": "Rose Revolution"
+        },
+        {
+          "type": "standard",
+          "title": "Eduard_Shevardnadze",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Eduard Shevardnadze</span></span>",
+          "titles": {
+            "canonical": "Eduard_Shevardnadze",
+            "normalized": "Eduard Shevardnadze",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Eduard Shevardnadze</span></span>"
+          },
+          "pageid": 353288,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Eduard_shevardnadze_%28cropped%29.jpg/330px-Eduard_shevardnadze_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 413
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/da/Eduard_shevardnadze_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1357,
+            "height": 1697
+          },
+          "lang": "en",
+          "description": "Georgian politician and diplomat (1928–2014)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Eduard_Shevardnadze",
+              "revisions": "https://en.wikipedia.org/wiki/Eduard_Shevardnadze?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Eduard_Shevardnadze?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Eduard_Shevardnadze"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Eduard_Shevardnadze",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Eduard_Shevardnadze",
+              "edit": "https://en.wikipedia.org/wiki/Eduard_Shevardnadze?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Eduard_Shevardnadze"
+            }
+          },
+          "extract": "Eduard Ambrosis dze Shevardnadze was a Soviet and Georgian politician and diplomat who governed Georgia for several non-consecutive periods from 1972 until his resignation in 2003 and also served as the final Soviet minister of foreign affairs from 1985 to 1991.",
+          "normalizedtitle": "Eduard Shevardnadze"
+        },
+        {
+          "type": "standard",
+          "title": "President_of_Georgia",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">President of Georgia</span></span>",
+          "titles": {
+            "canonical": "President_of_Georgia",
+            "normalized": "President of Georgia",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">President of Georgia</span></span>"
+          },
+          "pageid": 378892,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_the_President_of_Georgia.svg/330px-Flag_of_the_President_of_Georgia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_the_President_of_Georgia.svg/960px-Flag_of_the_President_of_Georgia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 709,
+            "height": 709
+          },
+          "lang": "en",
+          "description": "Head of state",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/President_of_Georgia",
+              "revisions": "https://en.wikipedia.org/wiki/President_of_Georgia?action=history",
+              "edit": "https://en.wikipedia.org/wiki/President_of_Georgia?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:President_of_Georgia"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/President_of_Georgia",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/President_of_Georgia",
+              "edit": "https://en.wikipedia.org/wiki/President_of_Georgia?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:President_of_Georgia"
+            }
+          },
+          "extract": "The president of Georgia is the ceremonial head of state of Georgia as well as the commander-in-chief of the Defence Forces. The constitution defines the presidential office as \"the guarantor of the country's unity and national independence.\"",
+          "normalizedtitle": "President of Georgia"
+        }
+      ]
+    }
+  ],
+  "births": [
+    {
+      "text": "Tino Anjorin, English footballer",
+      "year": 2001,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Tino_Anjorin",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tino Anjorin</span></span>",
+          "titles": {
+            "canonical": "Tino_Anjorin",
+            "normalized": "Tino Anjorin",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tino Anjorin</span></span>"
+          },
+          "pageid": 61883509,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Tino_Anjorin_2021.jpg/330px-Tino_Anjorin_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 557
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tino_Anjorin_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 661,
+            "height": 1115
+          },
+          "lang": "en",
+          "description": "English footballer (born 2001)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Tino_Anjorin",
+              "revisions": "https://en.wikipedia.org/wiki/Tino_Anjorin?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Tino_Anjorin?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Tino_Anjorin"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Tino_Anjorin",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Tino_Anjorin",
+              "edit": "https://en.wikipedia.org/wiki/Tino_Anjorin?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Tino_Anjorin"
+            }
+          },
+          "extract": "Faustino Adebola Rasheed \"Tino\" Anjorin  is an English professional footballer who plays as an attacking midfielder or left winger for Süper Lig club Göztepe, on loan from Serie A club Torino.",
+          "normalizedtitle": "Tino Anjorin"
+        }
+      ]
+    },
+    {
+      "text": "Boubacar Kamara, French footballer",
+      "year": 1999,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Boubacar_Kamara",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Boubacar Kamara</span></span>",
+          "titles": {
+            "canonical": "Boubacar_Kamara",
+            "normalized": "Boubacar Kamara",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Boubacar Kamara</span></span>"
+          },
+          "pageid": 54068737,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Lens_-_Marseille_%2822-01-2022%29_17.jpg/330px-Lens_-_Marseille_%2822-01-2022%29_17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 456
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lens_-_Marseille_%2822-01-2022%29_17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1930,
+            "height": 2669
+          },
+          "lang": "en",
+          "description": "French footballer (born 1999)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Boubacar_Kamara",
+              "revisions": "https://en.wikipedia.org/wiki/Boubacar_Kamara?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Boubacar_Kamara?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Boubacar_Kamara"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Boubacar_Kamara",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Boubacar_Kamara",
+              "edit": "https://en.wikipedia.org/wiki/Boubacar_Kamara?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Boubacar_Kamara"
+            }
+          },
+          "extract": "Boubacar Bernard Kamara is a French professional footballer who plays as a defensive midfielder for Premier League club Aston Villa. Mainly a defensive midfielder, he can also play as a centre-back.",
+          "normalizedtitle": "Boubacar Kamara"
+        }
+      ]
+    },
+    {
+      "text": "Caoimhín Kelleher, Irish footballer",
+      "year": 1998,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Caoimhín_Kelleher",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Caoimhín Kelleher</span></span>",
+          "titles": {
+            "canonical": "Caoimhín_Kelleher",
+            "normalized": "Caoimhín Kelleher",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Caoimhín Kelleher</span></span>"
+          },
+          "pageid": 58244562,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Caoimh%C3%ADn_Kelleher.jpg/330px-Caoimh%C3%ADn_Kelleher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 511
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Caoimh%C3%ADn_Kelleher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1704,
+            "height": 2640
+          },
+          "lang": "en",
+          "description": "Irish footballer (born 1998)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Caoimh%C3%ADn_Kelleher",
+              "revisions": "https://en.wikipedia.org/wiki/Caoimh%C3%ADn_Kelleher?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Caoimh%C3%ADn_Kelleher?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Caoimh%C3%ADn_Kelleher"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Caoimh%C3%ADn_Kelleher",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Caoimh%C3%ADn_Kelleher",
+              "edit": "https://en.wikipedia.org/wiki/Caoimh%C3%ADn_Kelleher?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Caoimh%C3%ADn_Kelleher"
+            }
+          },
+          "extract": "Caoimhín Odhrán Kelleher is an Irish professional footballer who plays as a goalkeeper for Premier League club Brentford and the Republic of Ireland national team.",
+          "normalizedtitle": "Caoimhín Kelleher"
+        }
+      ]
+    },
+    {
+      "text": "Alexis Ren, American social media personality, model, and actress",
+      "year": 1996,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Alexis_Ren",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alexis Ren</span></span>",
+          "titles": {
+            "canonical": "Alexis_Ren",
+            "normalized": "Alexis Ren",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alexis Ren</span></span>"
+          },
+          "pageid": 54577289,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Alexis_Ren.jpg/330px-Alexis_Ren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 413
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Alexis_Ren.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 864,
+            "height": 1080
+          },
+          "lang": "en",
+          "description": "American model (born 1996)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Alexis_Ren",
+              "revisions": "https://en.wikipedia.org/wiki/Alexis_Ren?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Alexis_Ren?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Alexis_Ren"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Alexis_Ren",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Alexis_Ren",
+              "edit": "https://en.wikipedia.org/wiki/Alexis_Ren?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Alexis_Ren"
+            }
+          },
+          "extract": "Alexis René Glabach, known professionally as Alexis Ren, is an American model, actress, entrepreneur, and internet celebrity.",
+          "normalizedtitle": "Alexis Ren"
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "text": "Rico Carty, Dominican baseball player (born 1939)",
+      "year": 2024,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Rico_Carty",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rico Carty</span></span>",
+          "titles": {
+            "canonical": "Rico_Carty",
+            "normalized": "Rico Carty",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rico Carty</span></span>"
+          },
+          "pageid": 2782390,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Rico_Carty_Braves.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 265,
+            "height": 420
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Rico_Carty_Braves.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 265,
+            "height": 420
+          },
+          "lang": "en",
+          "description": "Dominican baseball player (1939–2024)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Rico_Carty",
+              "revisions": "https://en.wikipedia.org/wiki/Rico_Carty?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Rico_Carty?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Rico_Carty"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Rico_Carty",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Rico_Carty",
+              "edit": "https://en.wikipedia.org/wiki/Rico_Carty?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Rico_Carty"
+            }
+          },
+          "extract": "Ricardo Adolfo Jacobo Carty was a Dominican professional baseball player. He played in Major League Baseball (MLB) as an outfielder from 1963 to 1979, most prominently as a member of the Atlanta Braves where he helped the franchise win its first National League (NL) Western Division title in 1969. Carty was the 1970 National League batting champion and, became the first write-in candidate in MLB history to be elected as an All-Star starter in the 1970 All-Star Game. He also played for the Chicago Cubs, Oakland Athletics, Cleveland Indians, Toronto Blue Jays and Texas Rangers.",
+          "normalizedtitle": "Rico Carty"
+        }
+      ]
+    },
+    {
+      "text": "Fred R. Harris, American politician (born 1930)",
+      "year": 2024,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Fred_R._Harris",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fred R. Harris</span></span>",
+          "titles": {
+            "canonical": "Fred_R._Harris",
+            "normalized": "Fred R. Harris",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fred R. Harris</span></span>"
+          },
+          "pageid": 1067698,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Fred_Harris_Signed_Portrait_1969_Edit.jpg/330px-Fred_Harris_Signed_Portrait_1969_Edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 412
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Fred_Harris_Signed_Portrait_1969_Edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 997,
+            "height": 1246
+          },
+          "lang": "en",
+          "description": "American politician (1930–2024)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Fred_R._Harris",
+              "revisions": "https://en.wikipedia.org/wiki/Fred_R._Harris?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Fred_R._Harris?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Fred_R._Harris"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Fred_R._Harris",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Fred_R._Harris",
+              "edit": "https://en.wikipedia.org/wiki/Fred_R._Harris?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Fred_R._Harris"
+            }
+          },
+          "extract": "Fred Roy Harris was an American politician from Oklahoma who served from 1957 to 1964 as a member of the Oklahoma Senate and from 1964 to 1973 as a member of the United States Senate.",
+          "normalizedtitle": "Fred R. Harris"
+        }
+      ]
+    },
+    {
+      "text": "Chuck Woolery, American game show host and television personality (born 1941)",
+      "year": 2024,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Chuck_Woolery",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chuck Woolery</span></span>",
+          "titles": {
+            "canonical": "Chuck_Woolery",
+            "normalized": "Chuck Woolery",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chuck Woolery</span></span>"
+          },
+          "pageid": 418113,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chuck_Woolery_2004_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 325,
+            "height": 453
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Chuck_Woolery_2004_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 325,
+            "height": 453
+          },
+          "lang": "en",
+          "description": "American game show host (1941–2024)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Chuck_Woolery",
+              "revisions": "https://en.wikipedia.org/wiki/Chuck_Woolery?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Chuck_Woolery?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Chuck_Woolery"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Chuck_Woolery",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Chuck_Woolery",
+              "edit": "https://en.wikipedia.org/wiki/Chuck_Woolery?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Chuck_Woolery"
+            }
+          },
+          "extract": "Charles Herbert Woolery was an American television host, actor, and musician. He had long-running tenures hosting several game shows. Woolery was the original host of the original daytime Wheel of Fortune from 1975 until 1981, when he was replaced by Pat Sajak.",
+          "normalizedtitle": "Chuck Woolery"
+        }
+      ]
+    },
+    {
+      "text": "Chun Doo-hwan, South Korean military officer and politician, president (1980–1988), multiple myeloma (born 1931)",
+      "year": 2021,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Chun_Doo-hwan",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chun Doo-hwan</span></span>",
+          "titles": {
+            "canonical": "Chun_Doo-hwan",
+            "normalized": "Chun Doo-hwan",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chun Doo-hwan</span></span>"
+          },
+          "pageid": 43954077,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Chun_Doo-hwan_%28%EC%A0%84%EB%91%90%ED%99%98%29_Presidential_Portrait.jpg/330px-Chun_Doo-hwan_%28%EC%A0%84%EB%91%90%ED%99%98%29_Presidential_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 442
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/Chun_Doo-hwan_%28%EC%A0%84%EB%91%90%ED%99%98%29_Presidential_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 583,
+            "height": 781
+          },
+          "lang": "en",
+          "description": "Leader of South Korea from 1979 to 1988",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Chun_Doo-hwan",
+              "revisions": "https://en.wikipedia.org/wiki/Chun_Doo-hwan?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Chun_Doo-hwan?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Chun_Doo-hwan"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Chun_Doo-hwan",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Chun_Doo-hwan",
+              "edit": "https://en.wikipedia.org/wiki/Chun_Doo-hwan?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Chun_Doo-hwan"
+            }
+          },
+          "extract": "Chun Doo-hwan was a South Korean army general and politician who served as the fifth president of South Korea from 1980 to 1988. A member of the military, he ruled the country as a military dictator following a successful coup in December 1979. The period encompassing his presidency is known as the Fifth Republic of Korea.",
+          "normalizedtitle": "Chun Doo-hwan"
+        },
+        {
+          "type": "standard",
+          "title": "President_of_South_Korea",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">President of South Korea</span></span>",
+          "titles": {
+            "canonical": "President_of_South_Korea",
+            "normalized": "President of South Korea",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">President of South Korea</span></span>"
+          },
+          "pageid": 98630,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Seal_of_the_President_of_the_Republic_of_Korea.svg/330px-Seal_of_the_President_of_the_Republic_of_Korea.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Seal_of_the_President_of_the_Republic_of_Korea.svg/500px-Seal_of_the_President_of_the_Republic_of_Korea.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 350,
+            "height": 350
+          },
+          "lang": "en",
+          "description": "Head of state and government",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/President_of_South_Korea",
+              "revisions": "https://en.wikipedia.org/wiki/President_of_South_Korea?action=history",
+              "edit": "https://en.wikipedia.org/wiki/President_of_South_Korea?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:President_of_South_Korea"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/President_of_South_Korea",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/President_of_South_Korea",
+              "edit": "https://en.wikipedia.org/wiki/President_of_South_Korea?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:President_of_South_Korea"
+            }
+          },
+          "extract": "The president of the Republic of Korea, also known as the president of South Korea, is the head of state and head of government of South Korea. The president directs the executive branch of the government and is the commander-in-chief of the Republic of Korea Armed Forces.",
+          "normalizedtitle": "President of South Korea"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "text": "The last Sumatran rhinoceros in Malaysia, Imam, dies, making the species officially extinct in the country.",
+      "year": 2019,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Sumatran_rhinoceros",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sumatran rhinoceros</span></span>",
+          "titles": {
+            "canonical": "Sumatran_rhinoceros",
+            "normalized": "Sumatran rhinoceros",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sumatran rhinoceros</span></span>"
+          },
+          "pageid": 510323,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG/330px-Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 248
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 2592,
+            "height": 1944
+          },
+          "lang": "en",
+          "description": "Endangered species of Asian rhinoceros",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Sumatran_rhinoceros",
+              "revisions": "https://en.wikipedia.org/wiki/Sumatran_rhinoceros?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Sumatran_rhinoceros?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Sumatran_rhinoceros"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Sumatran_rhinoceros",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Sumatran_rhinoceros",
+              "edit": "https://en.wikipedia.org/wiki/Sumatran_rhinoceros?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Sumatran_rhinoceros"
+            }
+          },
+          "extract": "The Sumatran rhinoceros, also known as the Sumatran rhino, hairy rhinoceros or Asian two-horned rhinoceros, is a rare member of the family Rhinocerotidae and one of five extant species of rhinoceros; it is the only extant species of the genus Dicerorhinus. It is the smallest rhinoceros, although it is still a large mammal; it stands 112–145 cm (44–57 in) high at the shoulder, with a head-and-body length of 2.36–3.18 m and a tail of 35–70 cm (14–28 in). The weight is reported to range from 500–1,000 kg (1,100–2,200 lb), averaging 700–800 kg (1,540–1,760 lb). Like both African species, it has two horns; the larger is the nasal horn, typically 15–25 cm (5.9–9.8 in), while the other horn is typically a stub. A coat of reddish-brown hair covers most of the Sumatran rhino's body.",
+          "normalizedtitle": "Sumatran rhinoceros"
+        }
+      ]
+    },
+    {
+      "text": "Founders of Italian fashion brand Dolce & Gabbana issue an apology following a series of offensive advertisements on social media promoting a fashion show in Shanghai, China, which was canceled.",
+      "year": 2018,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Dolce_&_Gabbana",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dolce &amp; Gabbana</span></span>",
+          "titles": {
+            "canonical": "Dolce_&_Gabbana",
+            "normalized": "Dolce & Gabbana",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dolce &amp; Gabbana</span></span>"
+          },
+          "pageid": 521012,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Dolce_%26_Gabbana_Store_%2851396804775%29.jpg/330px-Dolce_%26_Gabbana_Store_%2851396804775%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 341
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dolce_%26_Gabbana_Store_%2851396804775%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3442,
+            "height": 3555
+          },
+          "lang": "en",
+          "description": "Italian fashion house",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Dolce_%26_Gabbana",
+              "revisions": "https://en.wikipedia.org/wiki/Dolce_%26_Gabbana?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Dolce_%26_Gabbana?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Dolce_%26_Gabbana"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Dolce_%26_Gabbana",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Dolce_%26_Gabbana",
+              "edit": "https://en.wikipedia.org/wiki/Dolce_%26_Gabbana?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Dolce_%26_Gabbana"
+            }
+          },
+          "extract": "Dolce & Gabbana, also known by initials D&G, is an Italian fashion house founded in 1985 in Legnano by Italian designers Domenico Dolce and Stefano Gabbana. Stefano Gabbana stepped down as chair in December 2025, a decision announced in April 2026, while remaining co-creative director alongside Domenico Dolce. The house specializes in ready-to-wear, haute couture, handbags, accessories, cosmetics, and fragrances and licenses its name and branding to Luxottica for eyewear.",
+          "normalizedtitle": "Dolce & Gabbana"
+        }
+      ]
+    },
+    {
+      "text": "Blue Origin's New Shepard space vehicle became the first rocket to successfully fly to space and then return to Earth for a controlled, vertical landing.",
+      "year": 2015,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Blue_Origin",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Blue Origin</span></span>",
+          "titles": {
+            "canonical": "Blue_Origin",
+            "normalized": "Blue Origin",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Blue Origin</span></span>"
+          },
+          "pageid": 887418,
+          "lang": "en",
+          "description": "American aerospace company",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Blue_Origin",
+              "revisions": "https://en.wikipedia.org/wiki/Blue_Origin?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Blue_Origin?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Blue_Origin"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Blue_Origin",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Blue_Origin",
+              "edit": "https://en.wikipedia.org/wiki/Blue_Origin?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Blue_Origin"
+            }
+          },
+          "extract": "Blue Origin Enterprises, L.P. is a private American space technology company headquartered in Kent, Washington. The company operates the suborbital New Shepard rocket and the heavy-lift New Glenn rocket. In addition to producing engines for its own rockets, Blue Origin supplies engines for other vehicles, including United Launch Alliance's Vulcan Centaur. It is also working on the Blue Moon human lunar lander for NASA's Artemis program, the Blue Ring spacecraft platform, and the Orbital Reef space station in partnership with other organizations.",
+          "normalizedtitle": "Blue Origin"
+        },
+        {
+          "type": "standard",
+          "title": "New_Shepard",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">New Shepard</span></span>",
+          "titles": {
+            "canonical": "New_Shepard",
+            "normalized": "New Shepard",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">New Shepard</span></span>"
+          },
+          "pageid": 6385385,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/New_Shepard_booster_at_Oshkosh_Airventure_2017_03_%2836103651636%29.jpg/330px-New_Shepard_booster_at_Oshkosh_Airventure_2017_03_%2836103651636%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 440
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/New_Shepard_booster_at_Oshkosh_Airventure_2017_03_%2836103651636%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3456,
+            "height": 4608
+          },
+          "lang": "en",
+          "description": "Rocket developed by Blue Origin",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/New_Shepard",
+              "revisions": "https://en.wikipedia.org/wiki/New_Shepard?action=history",
+              "edit": "https://en.wikipedia.org/wiki/New_Shepard?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:New_Shepard"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/New_Shepard",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/New_Shepard",
+              "edit": "https://en.wikipedia.org/wiki/New_Shepard?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:New_Shepard"
+            }
+          },
+          "extract": "New Shepard is a fully reusable sub-orbital launch vehicle developed for space tourism by Blue Origin. The vehicle is named after Alan Shepard, for being the first American to travel into space, also being the fifth person to walk on the Moon. The vehicle is capable of vertical takeoff and landings. Additionally, it is also capable of carrying humans and customer payloads into a sub-orbital trajectory.",
+          "normalizedtitle": "New Shepard"
+        }
+      ]
+    },
+    {
+      "text": "Arab Spring: After 11 months of protests in Yemen, Yemeni president Ali Abdullah Saleh signs a deal to transfer power to the vice president, in exchange for legal immunity.",
+      "year": 2011,
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Arab_Spring",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Arab Spring</span></span>",
+          "titles": {
+            "canonical": "Arab_Spring",
+            "normalized": "Arab Spring",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Arab Spring</span></span>"
+          },
+          "pageid": 30655949,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tunisian_Revolution_Protest.jpg/330px-Tunisian_Revolution_Protest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 233
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tunisian_Revolution_Protest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 640,
+            "height": 451
+          },
+          "lang": "en",
+          "description": "2010s protests and revolutions in the Arab world",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Arab_Spring",
+              "revisions": "https://en.wikipedia.org/wiki/Arab_Spring?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Arab_Spring?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Arab_Spring"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Arab_Spring",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Arab_Spring",
+              "edit": "https://en.wikipedia.org/wiki/Arab_Spring?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Arab_Spring"
+            }
+          },
+          "extract": "The Arab Spring was a series of pro-democracy anti-government protests, uprisings, and armed rebellions that spread across much of the Arab world in the early 2010s. It began in Tunisia in response to the death of Mohamed Bouazizi by self-immolation. From Tunisia, the protests initially spread to five other countries: Libya, Egypt, Yemen, Syria and Bahrain. The rulers deposed include: Zine El Abidine Ben Ali of Tunisia, Muammar Gaddafi of Libya, and Hosni Mubarak of Egypt, all in 2011; and Ali Abdullah Saleh of Yemen in 2012. Major uprisings and social violence occurred, including riots, civil wars, or insurgencies. Sustained street demonstrations took place in Morocco, Iraq, Algeria, Lebanon, Jordan, Kuwait, Oman and Sudan. Minor protests took place in Djibouti, Mauritania, Palestine, Saudi Arabia and the Western Sahara. A major slogan of the demonstrators in the Arab world is ash-shaʻb yurīd isqāṭ an-niẓām!.",
+          "normalizedtitle": "Arab Spring"
+        },
+        {
+          "type": "standard",
+          "title": "Yemeni_revolution",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Yemeni revolution</span></span>",
+          "titles": {
+            "canonical": "Yemeni_revolution",
+            "normalized": "Yemeni revolution",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Yemeni revolution</span></span>"
+          },
+          "pageid": 30656841,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2011%E2%80%932012_Yemeni_revolution_%28from_Al_Jazeera%29_-_20110301-14.jpg/330px-2011%E2%80%932012_Yemeni_revolution_%28from_Al_Jazeera%29_-_20110301-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 219
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/2011%E2%80%932012_Yemeni_revolution_%28from_Al_Jazeera%29_-_20110301-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 2288,
+            "height": 1520
+          },
+          "lang": "en",
+          "description": "Yemeni upheaval occurring simultaneously with the Arab Spring (2011)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Yemeni_revolution",
+              "revisions": "https://en.wikipedia.org/wiki/Yemeni_revolution?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Yemeni_revolution?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Yemeni_revolution"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Yemeni_revolution",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Yemeni_revolution",
+              "edit": "https://en.wikipedia.org/wiki/Yemeni_revolution?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Yemeni_revolution"
+            }
+          },
+          "extract": "The Yemeni revolution, also known as the Yemeni intifada, was a series of major anti-government protests and armed uprisings that raged through Yemen from January 2011 to February 2012. It occurred concurrently with the Arab Spring that broke out throughout the Middle East and North Africa in 2011. In its early phase, protests in Yemen were initially against unemployment, economic conditions, corruption, and the authoritarian regime led by President Ali Abdullah Saleh as well as against the government's proposals to modify Yemen's constitution. The protesters' demands then escalated to calls for the resignation of Saleh. Mass defections from the military, as well as from Saleh's government, effectively rendered much of the country outside of the government's control, and protesters vowed to defy its authority.",
+          "normalizedtitle": "Yemeni revolution"
+        },
+        {
+          "type": "standard",
+          "title": "Ali_Abdullah_Saleh",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ali Abdullah Saleh</span></span>",
+          "titles": {
+            "canonical": "Ali_Abdullah_Saleh",
+            "normalized": "Ali Abdullah Saleh",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ali Abdullah Saleh</span></span>"
+          },
+          "pageid": 215609,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Nicole_Fontaine_and_Ali_Abdullah_Saleh%2C_2000_%281%29_%28cropped2%29.jpg/330px-Nicole_Fontaine_and_Ali_Abdullah_Saleh%2C_2000_%281%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 404
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Nicole_Fontaine_and_Ali_Abdullah_Saleh%2C_2000_%281%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 795,
+            "height": 973
+          },
+          "lang": "en",
+          "description": "President of Yemen from 1978 to 2012",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh",
+              "revisions": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Ali_Abdullah_Saleh"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Ali_Abdullah_Saleh",
+              "edit": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Ali_Abdullah_Saleh"
+            }
+          },
+          "extract": "Ali Abdullah Saleh was a Yemeni military officer and politician who served as the first president of the Republic of Yemen from the Yemeni unification in 1990 until his resignation in 2012, following the Yemeni revolution. Previously, he had served as the fifth and last President of the Yemen Arab Republic, from July 1978 to 22 May 1990, after the assassination of President Ahmad al-Ghashmi. al-Ghashmi had earlier appointed Saleh as military governor in Taiz.",
+          "normalizedtitle": "Ali Abdullah Saleh"
+        }
+      ]
+    }
+  ],
+  "holidays": [
+    {
+      "text": "Christian feast day:\nAlexander Nevsky (Repose, Russian Orthodox Church)",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Alexander_Nevsky",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alexander Nevsky</span></span>",
+          "titles": {
+            "canonical": "Alexander_Nevsky",
+            "normalized": "Alexander Nevsky",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alexander Nevsky</span></span>"
+          },
+          "pageid": 152841,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/AlexanderNevskyTitul.jpg/330px-AlexanderNevskyTitul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 438
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/AlexanderNevskyTitul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 640,
+            "height": 850
+          },
+          "lang": "en",
+          "description": "Grand Prince of Vladimir from 1252 to 1263",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Alexander_Nevsky",
+              "revisions": "https://en.wikipedia.org/wiki/Alexander_Nevsky?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Alexander_Nevsky?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Alexander_Nevsky"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Alexander_Nevsky",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Alexander_Nevsky",
+              "edit": "https://en.wikipedia.org/wiki/Alexander_Nevsky?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Alexander_Nevsky"
+            }
+          },
+          "extract": "Alexander Yaroslavich Nevsky was Prince of Novgorod and Grand Prince of Vladimir (1252–1263).",
+          "normalizedtitle": "Alexander Nevsky"
+        },
+        {
+          "type": "standard",
+          "title": "Russian_Orthodox_Church",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Russian Orthodox Church</span></span>",
+          "titles": {
+            "canonical": "Russian_Orthodox_Church",
+            "normalized": "Russian Orthodox Church",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Russian Orthodox Church</span></span>"
+          },
+          "pageid": 40157,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Moscow_-_Cathedral_of_Christ_the_Saviour_29-8-2024_1.jpg/330px-Moscow_-_Cathedral_of_Christ_the_Saviour_29-8-2024_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 370
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Moscow_-_Cathedral_of_Christ_the_Saviour_29-8-2024_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3340,
+            "height": 3744
+          },
+          "lang": "en",
+          "description": "Autocephalous Eastern Orthodox church",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Russian_Orthodox_Church",
+              "revisions": "https://en.wikipedia.org/wiki/Russian_Orthodox_Church?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Russian_Orthodox_Church?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Russian_Orthodox_Church"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Russian_Orthodox_Church",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Russian_Orthodox_Church",
+              "edit": "https://en.wikipedia.org/wiki/Russian_Orthodox_Church?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Russian_Orthodox_Church"
+            }
+          },
+          "extract": "The Russian Orthodox Church (ROC), also officially known as the Moscow Patriarchate, is an autocephalous Eastern Orthodox church. It is the largest of the Eastern Orthodox churches by number of adherents. The primate of the ROC is the Patriarch of Moscow and all Rus'.",
+          "normalizedtitle": "Russian Orthodox Church"
+        }
+      ]
+    },
+    {
+      "text": "Christian feast day:\nAmphilochius of Iconium",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Amphilochius_of_Iconium",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Amphilochius of Iconium</span></span>",
+          "titles": {
+            "canonical": "Amphilochius_of_Iconium",
+            "normalized": "Amphilochius of Iconium",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Amphilochius of Iconium</span></span>"
+          },
+          "pageid": 9091842,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Amphilochius_of_Iconium_%28Menologion_of_Basil_II%29.jpg/330px-Amphilochius_of_Iconium_%28Menologion_of_Basil_II%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 227
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Amphilochius_of_Iconium_%28Menologion_of_Basil_II%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1085,
+            "height": 746
+          },
+          "lang": "en",
+          "description": "4th-century Anatolian Christian saint",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Amphilochius_of_Iconium",
+              "revisions": "https://en.wikipedia.org/wiki/Amphilochius_of_Iconium?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Amphilochius_of_Iconium?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Amphilochius_of_Iconium"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Amphilochius_of_Iconium",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Amphilochius_of_Iconium",
+              "edit": "https://en.wikipedia.org/wiki/Amphilochius_of_Iconium?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Amphilochius_of_Iconium"
+            }
+          },
+          "extract": "Amphilochius of Iconium was a Christian bishop of the fourth century, son of a Cappadocian family of distinction, born, perhaps at Caesarea, ca. 339/340, died probably 394–403. He is venerated as a saint on November 22 in the Roman Catholic Church and on November 23 in the Orthodox Church.",
+          "normalizedtitle": "Amphilochius of Iconium"
+        }
+      ]
+    },
+    {
+      "text": "Christian feast day:\nColumbanus",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Columbanus",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Columbanus</span></span>",
+          "titles": {
+            "canonical": "Columbanus",
+            "normalized": "Columbanus",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Columbanus</span></span>"
+          },
+          "pageid": 6501,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/San_Colombano.jpg/330px-San_Colombano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 650
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/fe/San_Colombano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 756,
+            "height": 1488
+          },
+          "lang": "en",
+          "description": "Irish missionary (543–615)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Columbanus",
+              "revisions": "https://en.wikipedia.org/wiki/Columbanus?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Columbanus?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Columbanus"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Columbanus",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Columbanus",
+              "edit": "https://en.wikipedia.org/wiki/Columbanus?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Columbanus"
+            }
+          },
+          "extract": "Columbanus was an Irish missionary notable for founding a number of monasteries after 590 in the Frankish and Lombard kingdoms, most notably Luxeuil Abbey in present-day France and Bobbio Abbey in present-day Italy. Columbanus taught an Irish monastic rule and penitential practices for those repenting of sins, which emphasised private confession to a priest, followed by penances imposed by the priest in reparation for the sins. Columbanus is one of the earliest identifiable Hiberno-Latin writers.",
+          "normalizedtitle": "Columbanus"
+        }
+      ]
+    },
+    {
+      "text": "Christian feast day:\nFelicitas of Rome",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Felicitas_of_Rome",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Felicitas of Rome</span></span>",
+          "titles": {
+            "canonical": "Felicitas_of_Rome",
+            "normalized": "Felicitas of Rome",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Felicitas of Rome</span></span>"
+          },
+          "pageid": 8183956,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Nuremberg_chronicles_-_Felicitas_with_her_Seven_Sons_%28CXIIIIr%29.jpg/330px-Nuremberg_chronicles_-_Felicitas_with_her_Seven_Sons_%28CXIIIIr%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 434
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nuremberg_chronicles_-_Felicitas_with_her_Seven_Sons_%28CXIIIIr%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1312,
+            "height": 1724
+          },
+          "lang": "en",
+          "description": "Christian saint (circa 101–165 CE)",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Felicitas_of_Rome",
+              "revisions": "https://en.wikipedia.org/wiki/Felicitas_of_Rome?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Felicitas_of_Rome?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Felicitas_of_Rome"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Felicitas_of_Rome",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Felicitas_of_Rome",
+              "edit": "https://en.wikipedia.org/wiki/Felicitas_of_Rome?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Felicitas_of_Rome"
+            }
+          },
+          "extract": "Felicitas of Rome, also anglicized as Felicity, is a saint numbered among the Christian martyrs. Apart from her name, the only thing known for certain about this martyr is that she was buried in the Cemetery of Maximus, on the Via Salaria on a 23 November. However, a legend presents her as the mother of the seven martyrs whose feast is celebrated on 10 July. The Eastern Orthodox Church celebrates their martyrdom on 25 January.",
+          "normalizedtitle": "Felicitas of Rome"
+        }
+      ]
+    }
+  ]
+}

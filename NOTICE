@@ -1,0 +1,21 @@
+Gladys Wikipedia integration
+Copyright 2026 William-De71
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The texts shown come from Wikipedia (https://www.wikipedia.org), read through
+the REST API of the Wikimedia Foundation, and are available under the
+Creative Commons Attribution-ShareAlike 4.0 licence
+(https://creativecommons.org/licenses/by-sa/4.0/), Wikipedia contributors. The
+pictures of the day come from Wikimedia Commons (https://commons.wikimedia.org)
+under the licence each one names; the widgets show their author and licence.
+
+The files test/fixtures/onthisday-*.json and test/fixtures/featured-*.json are
+answers of the Wikipedia feeds captured on 2026-11-23 and cut down (CC BY-SA
+4.0, Wikipedia contributors). docs/illustrations/potd.jpg is a 500 px
+thumbnail of "Pointe Saint Mathieu - Phare.jpg" by JackyM59, CC BY-SA 4.0,
+Wikimedia Commons.
+
+Wikipedia and Wikimedia are trademarks of the Wikimedia Foundation, used here
+only to name the source of the content. This project is not affiliated with,
+endorsed or sponsored by the Wikimedia Foundation.

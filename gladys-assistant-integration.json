@@ -1,0 +1,550 @@
+{
+  "manifest_version": 1,
+  "type": "device",
+  "name": "Wikipedia",
+  "description": {
+    "en": "On this day, picture and article of the day from Wikipedia, on the dashboard and in scenes.",
+    "fr": "Éphéméride, image du jour et article du jour de Wikipédia, au tableau de bord et dans les scènes.",
+    "de": "An diesem Tag, Bild und Artikel des Tages aus Wikipedia, im Dashboard und in Szenen.",
+    "es": "Efemérides, imagen del día y artículo del día de Wikipedia, en el panel y en las escenas."
+  },
+  "version": "0.1.0",
+  "docker_image": "ghcr.io/william-de71/gladys-wikipedia:0.1.0",
+  "gladys_version": ">=5.3.0",
+  "categories": ["leisure", "services"],
+  "keywords": [
+    "Wikipédia",
+    "Wikimedia",
+    "on this day",
+    "éphéméride",
+    "picture of the day",
+    "image du jour",
+    "article du jour",
+    "encyclopedia",
+    "history",
+    "Commons"
+  ],
+  "cover_image": "https://raw.githubusercontent.com/William-De71/gladys-wikipedia/main/cover.jpg",
+  "transports": ["cloud"],
+  "config_schema": [
+    {
+      "key": "intro",
+      "type": "section",
+      "label": {
+        "en": "Wikipedia, every day",
+        "fr": "Wikipédia, chaque jour",
+        "de": "Wikipedia, jeden Tag",
+        "es": "Wikipedia, cada día"
+      },
+      "description": {
+        "en": "No account and no key: the integration reads the public feeds of Wikipedia (English, French, German, Spanish) once a day. The texts are under the CC BY-SA 4.0 licence and each widget credits Wikipedia; the pictures keep their author and licence.",
+        "fr": "Ni compte ni clé : l’intégration lit les flux publics de Wikipédia (français, anglais, allemand, espagnol) une fois par jour. Les textes sont sous licence CC BY-SA 4.0 et chaque widget cite Wikipédia ; les images gardent leur auteur et leur licence.",
+        "de": "Kein Konto und kein Schlüssel: Die Integration liest die öffentlichen Feeds von Wikipedia (Deutsch, Englisch, Französisch, Spanisch) einmal am Tag. Die Texte stehen unter der Lizenz CC BY-SA 4.0 und jedes Widget nennt Wikipedia; die Bilder behalten ihren Urheber und ihre Lizenz.",
+        "es": "Sin cuenta ni clave: la integración lee los flujos públicos de Wikipedia (español, inglés, francés, alemán) una vez al día. Los textos están bajo licencia CC BY-SA 4.0 y cada widget cita a Wikipedia; las imágenes conservan su autor y su licencia."
+      },
+      "links": [
+        {
+          "url": "https://github.com/William-De71/gladys-wikipedia/blob/main/docs/en.md",
+          "label": {
+            "en": "Integration documentation",
+            "fr": "Documentation de l’intégration",
+            "de": "Dokumentation der Integration",
+            "es": "Documentación de la integración"
+          }
+        }
+      ]
+    },
+    {
+      "key": "language",
+      "type": "select",
+      "default": "auto",
+      "label": {
+        "en": "Language of Wikipedia",
+        "fr": "Langue de Wikipédia",
+        "de": "Sprache von Wikipedia",
+        "es": "Idioma de Wikipedia"
+      },
+      "description": {
+        "en": "The Wikipedia of the device and of the scene actions. Automatic: the language of the last widget shown. The widgets always show the Wikipedia of their own language.",
+        "fr": "La Wikipédia de l’appareil et des actions de scène. Automatique : la langue du dernier widget affiché. Les widgets montrent toujours la Wikipédia de leur langue.",
+        "de": "Die Wikipedia des Geräts und der Szenenaktionen. Automatisch: die Sprache des zuletzt angezeigten Widgets. Die Widgets zeigen immer die Wikipedia ihrer eigenen Sprache.",
+        "es": "La Wikipedia del dispositivo y de las acciones de escena. Automático: el idioma del último widget mostrado. Los widgets muestran siempre la Wikipedia de su propio idioma."
+      },
+      "options": [
+        {
+          "value": "auto",
+          "label": {
+            "en": "Automatic",
+            "fr": "Automatique",
+            "de": "Automatisch",
+            "es": "Automático"
+          }
+        },
+        {
+          "value": "en",
+          "label": {
+            "en": "English",
+            "fr": "English",
+            "de": "English",
+            "es": "English"
+          }
+        },
+        {
+          "value": "fr",
+          "label": {
+            "en": "Français",
+            "fr": "Français",
+            "de": "Français",
+            "es": "Français"
+          }
+        },
+        {
+          "value": "de",
+          "label": {
+            "en": "Deutsch",
+            "fr": "Deutsch",
+            "de": "Deutsch",
+            "es": "Deutsch"
+          }
+        },
+        {
+          "value": "es",
+          "label": {
+            "en": "Español",
+            "fr": "Español",
+            "de": "Español",
+            "es": "Español"
+          }
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "key": "check",
+      "timeout_seconds": 60,
+      "label": {
+        "en": "Read Wikipedia now",
+        "fr": "Lire Wikipédia maintenant",
+        "de": "Wikipedia jetzt lesen",
+        "es": "Leer Wikipedia ahora"
+      },
+      "description": {
+        "en": "Reads the content of today and shows it.",
+        "fr": "Lit le contenu du jour et l’affiche.",
+        "de": "Liest den Inhalt von heute und zeigt ihn an.",
+        "es": "Lee el contenido de hoy y lo muestra."
+      }
+    }
+  ],
+  "widgets": [
+    {
+      "key": "on_this_day",
+      "icon": "calendar",
+      "label": {
+        "en": "On this day",
+        "fr": "Éphéméride",
+        "de": "An diesem Tag",
+        "es": "Efemérides"
+      },
+      "description": {
+        "en": "What happened on this day: anniversaries, events, births, deaths or holidays.",
+        "fr": "Ce qui s’est passé ce jour-là : anniversaires, événements, naissances, décès ou fêtes.",
+        "de": "Was an diesem Tag geschah: Jahrestage, Ereignisse, Geburten, Todesfälle, Feiertage.",
+        "es": "Lo que pasó este día: efemérides, acontecimientos, nacimientos, muertes o fiestas."
+      },
+      "settings": [
+        {
+          "key": "kind",
+          "type": "select",
+          "required": false,
+          "default": "selected",
+          "label": {
+            "en": "Show",
+            "fr": "Afficher",
+            "de": "Anzeigen",
+            "es": "Mostrar"
+          },
+          "options": [
+            {
+              "value": "selected",
+              "label": {
+                "en": "Selected anniversaries",
+                "fr": "Éphéméride",
+                "de": "Jahrestage",
+                "es": "Efemérides"
+              }
+            },
+            {
+              "value": "events",
+              "label": {
+                "en": "Events",
+                "fr": "Événements",
+                "de": "Ereignisse",
+                "es": "Acontecimientos"
+              }
+            },
+            {
+              "value": "births",
+              "label": {
+                "en": "Births",
+                "fr": "Naissances",
+                "de": "Geboren",
+                "es": "Nacimientos"
+              }
+            },
+            {
+              "value": "deaths",
+              "label": {
+                "en": "Deaths",
+                "fr": "Décès",
+                "de": "Gestorben",
+                "es": "Fallecimientos"
+              }
+            },
+            {
+              "value": "holidays",
+              "label": {
+                "en": "Holidays and observances",
+                "fr": "Fêtes et célébrations",
+                "de": "Feier- und Gedenktage",
+                "es": "Celebraciones"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "picture",
+      "icon": "image",
+      "label": {
+        "en": "Picture of the day",
+        "fr": "Image du jour",
+        "de": "Bild des Tages",
+        "es": "Imagen del día"
+      },
+      "description": {
+        "en": "The picture of the day of Wikimedia Commons, with its author and licence.",
+        "fr": "L’image du jour de Wikimedia Commons, avec son auteur et sa licence.",
+        "de": "Das Bild des Tages von Wikimedia Commons, mit Urheber und Lizenz.",
+        "es": "La imagen del día de Wikimedia Commons, con su autor y su licencia."
+      }
+    },
+    {
+      "key": "article",
+      "icon": "book-open",
+      "label": {
+        "en": "Article of the day",
+        "fr": "Article du jour",
+        "de": "Artikel des Tages",
+        "es": "Artículo del día"
+      },
+      "description": {
+        "en": "The featured article (English, German), else the most read one of yesterday.",
+        "fr": "L’article du jour (anglais, allemand), sinon le plus lu d’hier.",
+        "de": "Der Artikel des Tages (Englisch, Deutsch), sonst der meistgelesene von gestern.",
+        "es": "El artículo destacado (inglés, alemán), si no el más leído de ayer."
+      }
+    },
+    {
+      "key": "most_read",
+      "icon": "trending-up",
+      "label": {
+        "en": "Most read",
+        "fr": "Les plus lus",
+        "de": "Meistgelesen",
+        "es": "Más leídos"
+      },
+      "description": {
+        "en": "The articles read most on Wikipedia yesterday, with their views.",
+        "fr": "Les articles les plus lus sur Wikipédia hier, avec leurs vues.",
+        "de": "Die gestern meistgelesenen Wikipedia-Artikel mit ihren Aufrufen.",
+        "es": "Los artículos más leídos ayer en Wikipedia, con sus visitas."
+      }
+    }
+  ],
+  "scene_actions": [
+    {
+      "key": "on_this_day",
+      "timeout_seconds": 30,
+      "label": {
+        "en": "Wikipedia: on this day",
+        "fr": "Wikipédia : éphéméride",
+        "de": "Wikipedia: an diesem Tag",
+        "es": "Wikipedia: efemérides"
+      },
+      "description": {
+        "en": "What happened on this day, as one text ready to send or to speak (“On 23 November: in 1980, …”).",
+        "fr": "Ce qui s’est passé ce jour-là, en un texte prêt à envoyer ou à lire (« Un 23 novembre : en 1980, … »).",
+        "de": "Was an diesem Tag geschah, als ein Text zum Senden oder Vorlesen („Am 23. November: 1980: …“).",
+        "es": "Lo que pasó este día, en un texto listo para enviar o leer («Un 23 de noviembre: en 1980, …»)."
+      },
+      "fields": [
+        {
+          "key": "kind",
+          "type": "select",
+          "required": false,
+          "default": "selected",
+          "label": {
+            "en": "What",
+            "fr": "Quoi",
+            "de": "Was",
+            "es": "Qué"
+          },
+          "options": [
+            {
+              "value": "selected",
+              "label": {
+                "en": "Selected anniversaries",
+                "fr": "Éphéméride",
+                "de": "Jahrestage",
+                "es": "Efemérides"
+              }
+            },
+            {
+              "value": "events",
+              "label": {
+                "en": "Events",
+                "fr": "Événements",
+                "de": "Ereignisse",
+                "es": "Acontecimientos"
+              }
+            },
+            {
+              "value": "births",
+              "label": {
+                "en": "Births",
+                "fr": "Naissances",
+                "de": "Geboren",
+                "es": "Nacimientos"
+              }
+            },
+            {
+              "value": "deaths",
+              "label": {
+                "en": "Deaths",
+                "fr": "Décès",
+                "de": "Gestorben",
+                "es": "Fallecimientos"
+              }
+            },
+            {
+              "value": "holidays",
+              "label": {
+                "en": "Holidays and observances",
+                "fr": "Fêtes et célébrations",
+                "de": "Feier- und Gedenktage",
+                "es": "Celebraciones"
+              }
+            }
+          ]
+        },
+        {
+          "key": "count",
+          "type": "number",
+          "required": false,
+          "default": 3,
+          "min": 1,
+          "max": 10,
+          "label": {
+            "en": "How many",
+            "fr": "Combien",
+            "de": "Wie viele",
+            "es": "Cuántos"
+          }
+        }
+      ],
+      "outputs": [
+        {
+          "key": "summary",
+          "type": "string",
+          "label": {
+            "en": "Text",
+            "fr": "Texte",
+            "de": "Text",
+            "es": "Texto"
+          }
+        },
+        {
+          "key": "count",
+          "type": "number",
+          "label": {
+            "en": "Number of entries",
+            "fr": "Nombre d’entrées",
+            "de": "Anzahl der Einträge",
+            "es": "Número de entradas"
+          }
+        },
+        {
+          "key": "first_year",
+          "type": "number",
+          "label": {
+            "en": "Year of the first one",
+            "fr": "Année de la première",
+            "de": "Jahr des ersten",
+            "es": "Año de la primera"
+          }
+        },
+        {
+          "key": "first_text",
+          "type": "string",
+          "label": {
+            "en": "First one",
+            "fr": "Première",
+            "de": "Erster Eintrag",
+            "es": "Primera"
+          }
+        },
+        {
+          "key": "page_url",
+          "type": "string",
+          "label": {
+            "en": "Page of the day",
+            "fr": "Page du jour",
+            "de": "Seite des Tages",
+            "es": "Página del día"
+          }
+        }
+      ]
+    },
+    {
+      "key": "picture_of_the_day",
+      "timeout_seconds": 30,
+      "label": {
+        "en": "Wikipedia: picture of the day",
+        "fr": "Wikipédia : image du jour",
+        "de": "Wikipedia: Bild des Tages",
+        "es": "Wikipedia: imagen del día"
+      },
+      "description": {
+        "en": "The picture of the day: its description, author, licence and addresses.",
+        "fr": "L’image du jour : sa description, son auteur, sa licence et ses adresses.",
+        "de": "Das Bild des Tages: Beschreibung, Urheber, Lizenz und Adressen.",
+        "es": "La imagen del día: su descripción, autor, licencia y direcciones."
+      },
+      "fields": [],
+      "outputs": [
+        {
+          "key": "description",
+          "type": "string",
+          "label": {
+            "en": "Description",
+            "fr": "Description",
+            "de": "Beschreibung",
+            "es": "Descripción"
+          }
+        },
+        {
+          "key": "artist",
+          "type": "string",
+          "label": {
+            "en": "Author",
+            "fr": "Auteur",
+            "de": "Urheber",
+            "es": "Autor"
+          }
+        },
+        {
+          "key": "license",
+          "type": "string",
+          "label": {
+            "en": "Licence",
+            "fr": "Licence",
+            "de": "Lizenz",
+            "es": "Licencia"
+          }
+        },
+        {
+          "key": "file_url",
+          "type": "string",
+          "label": {
+            "en": "Page on Commons",
+            "fr": "Page sur Commons",
+            "de": "Seite auf Commons",
+            "es": "Página en Commons"
+          }
+        },
+        {
+          "key": "image_url",
+          "type": "string",
+          "label": {
+            "en": "Image address",
+            "fr": "Adresse de l’image",
+            "de": "Bildadresse",
+            "es": "Dirección de la imagen"
+          }
+        }
+      ]
+    },
+    {
+      "key": "article_of_the_day",
+      "timeout_seconds": 30,
+      "label": {
+        "en": "Wikipedia: article of the day",
+        "fr": "Wikipédia : article du jour",
+        "de": "Wikipedia: Artikel des Tages",
+        "es": "Wikipedia: artículo del día"
+      },
+      "description": {
+        "en": "The featured article (English, German Wikipedia), else the most read one of yesterday: title, summary and address.",
+        "fr": "L’article du jour (Wikipédia anglaise, allemande), sinon le plus lu d’hier : titre, résumé et adresse.",
+        "de": "Der Artikel des Tages (englische, deutsche Wikipedia), sonst der meistgelesene von gestern: Titel, Zusammenfassung und Adresse.",
+        "es": "El artículo destacado (Wikipedia inglesa, alemana), si no el más leído de ayer: título, resumen y dirección."
+      },
+      "fields": [],
+      "outputs": [
+        {
+          "key": "title",
+          "type": "string",
+          "label": {
+            "en": "Title",
+            "fr": "Titre",
+            "de": "Titel",
+            "es": "Título"
+          }
+        },
+        {
+          "key": "description",
+          "type": "string",
+          "label": {
+            "en": "Short description",
+            "fr": "Description courte",
+            "de": "Kurzbeschreibung",
+            "es": "Descripción corta"
+          }
+        },
+        {
+          "key": "extract",
+          "type": "string",
+          "label": {
+            "en": "Summary",
+            "fr": "Résumé",
+            "de": "Zusammenfassung",
+            "es": "Resumen"
+          }
+        },
+        {
+          "key": "url",
+          "type": "string",
+          "label": {
+            "en": "Address",
+            "fr": "Adresse",
+            "de": "Adresse",
+            "es": "Dirección"
+          }
+        },
+        {
+          "key": "most_read",
+          "type": "boolean",
+          "label": {
+            "en": "Most read instead",
+            "fr": "Le plus lu à la place",
+            "de": "Stattdessen meistgelesen",
+            "es": "El más leído en su lugar"
+          }
+        }
+      ]
+    }
+  ]
+}

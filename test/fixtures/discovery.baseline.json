@@ -1,0 +1,157 @@
+{
+  "devices": {
+    "today": {
+      "external_id": "ext:wikipedia:device:today",
+      "should_poll": false,
+      "params": [],
+      "features": [
+        {
+          "external_id": "ext:wikipedia:device:today:event",
+          "category": "text",
+          "type": "text",
+          "min": 0,
+          "max": 0,
+          "read_only": true,
+          "has_feedback": false
+        },
+        {
+          "external_id": "ext:wikipedia:device:today:article",
+          "category": "text",
+          "type": "text",
+          "min": 0,
+          "max": 0,
+          "read_only": true,
+          "has_feedback": false
+        },
+        {
+          "external_id": "ext:wikipedia:device:today:picture",
+          "category": "text",
+          "type": "text",
+          "min": 0,
+          "max": 0,
+          "read_only": true,
+          "has_feedback": false
+        }
+      ]
+    }
+  },
+  "manifest": {
+    "actions": ["check"],
+    "config_schema": [
+      {
+        "key": "intro",
+        "type": "section"
+      },
+      {
+        "key": "language",
+        "type": "select",
+        "options": ["auto", "en", "fr", "de", "es"]
+      }
+    ],
+    "scene_triggers": [],
+    "scene_actions": [
+      {
+        "key": "on_this_day",
+        "fields": ["kind", "count"],
+        "outputs": [
+          {
+            "key": "summary",
+            "type": "string"
+          },
+          {
+            "key": "count",
+            "type": "number"
+          },
+          {
+            "key": "first_year",
+            "type": "number"
+          },
+          {
+            "key": "first_text",
+            "type": "string"
+          },
+          {
+            "key": "page_url",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "key": "picture_of_the_day",
+        "fields": [],
+        "outputs": [
+          {
+            "key": "description",
+            "type": "string"
+          },
+          {
+            "key": "artist",
+            "type": "string"
+          },
+          {
+            "key": "license",
+            "type": "string"
+          },
+          {
+            "key": "file_url",
+            "type": "string"
+          },
+          {
+            "key": "image_url",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "key": "article_of_the_day",
+        "fields": [],
+        "outputs": [
+          {
+            "key": "title",
+            "type": "string"
+          },
+          {
+            "key": "description",
+            "type": "string"
+          },
+          {
+            "key": "extract",
+            "type": "string"
+          },
+          {
+            "key": "url",
+            "type": "string"
+          },
+          {
+            "key": "most_read",
+            "type": "boolean"
+          }
+        ]
+      }
+    ],
+    "widgets": [
+      {
+        "key": "on_this_day",
+        "settings": ["kind"],
+        "options": {
+          "kind": ["selected", "events", "births", "deaths", "holidays"]
+        }
+      },
+      {
+        "key": "picture",
+        "settings": [],
+        "options": {}
+      },
+      {
+        "key": "article",
+        "settings": [],
+        "options": {}
+      },
+      {
+        "key": "most_read",
+        "settings": [],
+        "options": {}
+      }
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "tfa": {
+    "type": "standard",
+    "title": "Ice_Warrior",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ice Warrior</span></span>",
+    "titles": {
+      "canonical": "Ice_Warrior",
+      "normalized": "Ice Warrior",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ice Warrior</span></span>"
+    },
+    "pageid": 1523057,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/5/5d/Ice_Warriors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "width": 421,
+      "height": 237
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/5/5d/Ice_Warriors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "width": 421,
+      "height": 237
+    },
+    "lang": "en",
+    "description": "Doctor Who alien race",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ice_Warrior",
+        "revisions": "https://en.wikipedia.org/wiki/Ice_Warrior?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ice_Warrior?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ice_Warrior"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ice_Warrior",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ice_Warrior",
+        "edit": "https://en.wikipedia.org/wiki/Ice_Warrior?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ice_Warrior"
+      }
+    },
+    "extract": "The Ice Warriors are a fictional extraterrestrial race of reptilian humanoids in the British science fiction television series Doctor Who. Natives of Mars, the Ice Warriors wear bio-mechanical armour to protect themselves from attack and temperature fluctuations. In their debut, the 1967 serial The Ice Warriors, they fought the Second Doctor. Two years later, they reappeared in The Seeds of Death. In 1972's The Curse of Peladon, they were allied with the Doctor, reverting to antagonists in The Monster of Peladon two years later. The Ice Warriors did not appear again on-screen until the show's 2005 revival series in the episode \"Cold War\" (2013), followed by the 2017 episode \"Empress of Mars\". They have also appeared in spin-off media for the series.",
+    "normalizedtitle": "Ice Warrior"
+  },
+  "mostread": {
+    "date": "2026-11-22Z",
+    "articles": [
+      {
+        "type": "standard",
+        "title": "Ramayana:_Part_1",
+        "displaytitle": "<i>Ramayana: Part 1</i>",
+        "titles": {
+          "canonical": "Ramayana:_Part_1",
+          "normalized": "Ramayana: Part 1",
+          "display": "<i>Ramayana: Part 1</i>"
+        },
+        "pageid": 78318715,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/en/4/48/Ramayana_Part_1_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 283,
+          "height": 354
+        },
+        "originalimage": {
+          "source": "https://upload.wikimedia.org/wikipedia/en/4/48/Ramayana_Part_1_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 283,
+          "height": 354
+        },
+        "lang": "en",
+        "description": "2026 Indian film by Nitesh Tiwari",
+        "content_urls": {
+          "desktop": {
+            "page": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
+            "revisions": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1?action=history",
+            "edit": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:Ramayana%3A_Part_1"
+          },
+          "mobile": {
+            "page": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
+            "revisions": "https://en.wikipedia.org/wiki/Special:History/Ramayana%3A_Part_1",
+            "edit": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:Ramayana%3A_Part_1"
+          }
+        },
+        "extract": "Ramayana: Part 1 is a 2026 Indian Hindi-language epic mythological film directed by Nitesh Tiwari, who co-wrote the screenplay with Shridhar Raghavan. Produced by Namit Malhotra and Yash, the film is based on the Hindu epic Ramayana by Valmiki. It is the first instalment of a two-part film series, with Part 1 being based on the first three kāṇḍa (chapters) of Ramayana, which chronicle the life of Prince Rama from childhood up to his adventurous 14-year exile. The first part features an ensemble cast that includes Ranbir Kapoor, Yash, Sai Pallavi, Ravi Dubey, Anupam Kher, Shobana, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, Kunal Kapoor, Adinath Kothare, Arun Govil, Indira Krishnan, and Lara Dutta.",
+        "normalizedtitle": "Ramayana: Part 1",
+        "views": 384249,
+        "rank": 4
+      },
+      {
+        "type": "standard",
+        "title": "Grand_Theft_Auto_VI",
+        "displaytitle": "<i>Grand Theft Auto VI</i>",
+        "titles": {
+          "canonical": "Grand_Theft_Auto_VI",
+          "normalized": "Grand Theft Auto VI",
+          "display": "<i>Grand Theft Auto VI</i>"
+        },
+        "pageid": 70042775,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 282,
+          "height": 353
+        },
+        "originalimage": {
+          "source": "https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 282,
+          "height": 353
+        },
+        "lang": "en",
+        "description": "2026 video game",
+        "content_urls": {
+          "desktop": {
+            "page": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+            "revisions": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI?action=history",
+            "edit": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:Grand_Theft_Auto_VI"
+          },
+          "mobile": {
+            "page": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+            "revisions": "https://en.wikipedia.org/wiki/Special:History/Grand_Theft_Auto_VI",
+            "edit": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:Grand_Theft_Auto_VI"
+          }
+        },
+        "extract": "Grand Theft Auto VI is a 2026 action-adventure game developed and published by Rockstar Games. It is the eighth main entry in the Grand Theft Auto series, following 2013's Grand Theft Auto V, and the sixteenth entry overall. Set in the fictional US state of Leonida, based on Florida, the story follows the criminal duo of Jason Duval and Lucia Caminos as they lead a life of crime to escape from corrupt police officers in a state-wide criminal conspiracy. The game's open world allows players to freely roam Leonida and its Miami-inspired Vice City and engage in various side activities.",
+        "normalizedtitle": "Grand Theft Auto VI",
+        "views": 308867,
+        "rank": 5
+      },
+      {
+        "type": "standard",
+        "title": "Tom_Jackson_(American_football,_born_1951)",
+        "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tom Jackson (American football, born 1951)</span></span>",
+        "titles": {
+          "canonical": "Tom_Jackson_(American_football,_born_1951)",
+          "normalized": "Tom Jackson (American football, born 1951)",
+          "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tom Jackson (American football, born 1951)</span></span>"
+        },
+        "pageid": 2120398,
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Tom_Jackson_2010.jpg/330px-Tom_Jackson_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 330,
+          "height": 345
+        },
+        "originalimage": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Tom_Jackson_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 697,
+          "height": 728
+        },
+        "lang": "en",
+        "description": "American football player and broadcaster (1951–2026)",
+        "content_urls": {
+          "desktop": {
+            "page": "https://en.wikipedia.org/wiki/Tom_Jackson_(American_football%2C_born_1951)",
+            "revisions": "https://en.wikipedia.org/wiki/Tom_Jackson_(American_football%2C_born_1951)?action=history",
+            "edit": "https://en.wikipedia.org/wiki/Tom_Jackson_(American_football%2C_born_1951)?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:Tom_Jackson_(American_football%2C_born_1951)"
+          },
+          "mobile": {
+            "page": "https://en.wikipedia.org/wiki/Tom_Jackson_(American_football%2C_born_1951)",
+            "revisions": "https://en.wikipedia.org/wiki/Special:History/Tom_Jackson_(American_football%2C_born_1951)",
+            "edit": "https://en.wikipedia.org/wiki/Tom_Jackson_(American_football%2C_born_1951)?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:Tom_Jackson_(American_football%2C_born_1951)"
+          }
+        },
+        "extract": "Thomas Louie Jackson, also referred to as \"TJ\" or \"Tommy\", was an American football player and sports broadcaster and analyst. He played his entire National Football League (NFL) career as a linebacker for the Denver Broncos from 1973 to 1986. He then worked as an NFL analyst for ESPN from 1987 until his retirement in 2016.",
+        "normalizedtitle": "Tom Jackson (American football, born 1951)",
+        "views": 263973,
+        "rank": 6
+      },
+      {
+        "type": "standard",
+        "title": "The_Hunger_Games:_Sunrise_on_the_Reaping",
+        "displaytitle": "<i>The Hunger Games: Sunrise on the Reaping</i>",
+        "titles": {
+          "canonical": "The_Hunger_Games:_Sunrise_on_the_Reaping",
+          "normalized": "The Hunger Games: Sunrise on the Reaping",
+          "display": "<i>The Hunger Games: Sunrise on the Reaping</i>"
+        },
+        "pageid": 77097294,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/en/d/da/The_Hunger_Games_-_Sunrise_on_the_Reaping_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 258,
+          "height": 387
+        },
+        "originalimage": {
+          "source": "https://upload.wikimedia.org/wikipedia/en/d/da/The_Hunger_Games_-_Sunrise_on_the_Reaping_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 258,
+          "height": 387
+        },
+        "lang": "en",
+        "description": "2026 film by Francis Lawrence",
+        "content_urls": {
+          "desktop": {
+            "page": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
+            "revisions": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping?action=history",
+            "edit": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:The_Hunger_Games%3A_Sunrise_on_the_Reaping"
+          },
+          "mobile": {
+            "page": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
+            "revisions": "https://en.wikipedia.org/wiki/Special:History/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
+            "edit": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:The_Hunger_Games%3A_Sunrise_on_the_Reaping"
+          }
+        },
+        "extract": "The Hunger Games: Sunrise on the Reaping is a 2026 American dystopian film produced and directed by Francis Lawrence from a screenplay by Billy Ray and Michael Lesslie. Based on the 2025 novel Sunrise on the Reaping by Suzanne Collins, it is the sixth installment in The Hunger Games film series, serving as the second prequel to The Hunger Games (2012) after The Hunger Games: The Ballad of Songbirds & Snakes (2023).",
+        "normalizedtitle": "The Hunger Games: Sunrise on the Reaping",
+        "views": 222399,
+        "rank": 7
+      },
+      {
+        "type": "standard",
+        "title": "Riemann_hypothesis",
+        "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Riemann hypothesis</span></span>",
+        "titles": {
+          "canonical": "Riemann_hypothesis",
+          "normalized": "Riemann hypothesis",
+          "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Riemann hypothesis</span></span>"
+        },
+        "pageid": 19344125,
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Riemann_zeta_function_absolute_value.png/330px-Riemann_zeta_function_absolute_value.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 330,
+          "height": 330
+        },
+        "originalimage": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Riemann_zeta_function_absolute_value.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 1000,
+          "height": 1000
+        },
+        "lang": "en",
+        "description": "Statement about zeros of the zeta function",
+        "content_urls": {
+          "desktop": {
+            "page": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+            "revisions": "https://en.wikipedia.org/wiki/Riemann_hypothesis?action=history",
+            "edit": "https://en.wikipedia.org/wiki/Riemann_hypothesis?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:Riemann_hypothesis"
+          },
+          "mobile": {
+            "page": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+            "revisions": "https://en.wikipedia.org/wiki/Special:History/Riemann_hypothesis",
+            "edit": "https://en.wikipedia.org/wiki/Riemann_hypothesis?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:Riemann_hypothesis"
+          }
+        },
+        "extract": "In mathematics, the Riemann hypothesis asserts that the Riemann zeta function has its zeros only at the negative even integers and at complex numbers with real part. First posed in 1859 by Bernhard Riemann, it is considered by pure mathematicians to be one of the most important problems in the field. The result has importance in number theory because it implies bounds on the distribution of prime numbers. The name is also used for some closely related analogues such as the Riemann hypothesis for curves over finite fields, which was proved by André Weil around 1940.",
+        "normalizedtitle": "Riemann hypothesis",
+        "views": 205793,
+        "rank": 8
+      },
+      {
+        "type": "standard",
+        "title": "Miley_Cyrus",
+        "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Miley Cyrus</span></span>",
+        "titles": {
+          "canonical": "Miley_Cyrus",
+          "normalized": "Miley Cyrus",
+          "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Miley Cyrus</span></span>"
+        },
+        "pageid": 8135890,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Miley_Cyrus_Grammy_Awards_2024_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 322,
+          "height": 483
+        },
+        "originalimage": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Miley_Cyrus_Grammy_Awards_2024_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 322,
+          "height": 483
+        },
+        "lang": "en",
+        "description": "American singer and actress (born 1992)",
+        "content_urls": {
+          "desktop": {
+            "page": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+            "revisions": "https://en.wikipedia.org/wiki/Miley_Cyrus?action=history",
+            "edit": "https://en.wikipedia.org/wiki/Miley_Cyrus?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:Miley_Cyrus"
+          },
+          "mobile": {
+            "page": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+            "revisions": "https://en.wikipedia.org/wiki/Special:History/Miley_Cyrus",
+            "edit": "https://en.wikipedia.org/wiki/Miley_Cyrus?action=edit",
+            "talk": "https://en.wikipedia.org/wiki/Talk:Miley_Cyrus"
+          }
+        },
+        "extract": "Miley Ray Cyrus is an American singer, songwriter, and actress. An influential figure in popular music, Cyrus is known for her evolving artistry and image reinventions. She was an established child actress before developing a successful entertainment career as an adult. Cyrus emerged as a teen idol with her portrayal of Miley Stewart in the Disney Channel television series Hannah Montana (2006–2011), growing a profitable franchise and achieving two number-one soundtracks on the US Billboard 200.",
+        "normalizedtitle": "Miley Cyrus",
+        "views": 170642,
+        "rank": 9
+      }
+    ]
+  },
+  "image": {
+    "title": "File:Pointe Saint Mathieu - Phare.jpg",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pointe_Saint_Mathieu_-_Phare.jpg/960px-Pointe_Saint_Mathieu_-_Phare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 640,
+      "height": 354
+    },
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pointe_Saint_Mathieu_-_Phare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 6000,
+      "height": 3319
+    },
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pointe_Saint_Mathieu_-_Phare.jpg",
+    "artist": {
+      "html": "<a href=\"//commons.wikimedia.org/wiki/User:JackyM59\" title=\"User:JackyM59\">JackyM59</a>",
+      "text": "JackyM59",
+      "name": "JackyM59",
+      "user_page": "https://commons.wikimedia.org/wiki/User:JackyM59"
+    },
+    "credit": {
+      "html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "text": "Own work"
+    },
+    "license": {
+      "type": "CC BY-SA 4.0",
+      "code": "cc-by-sa-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "description": {
+      "html": "View of <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Pointe%20Saint-Mathieu\" title=\"en:Pointe Saint-Mathieu\" class=\"extiw\">Pointe Saint-Mathieu</a> with the <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Saint-Mathieu%20Lighthouse\" title=\"en:Saint-Mathieu Lighthouse\" class=\"extiw\">lighthouse</a> (center), <i><a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Vessel%20traffic%20service\" title=\"en:Vessel traffic service\" class=\"extiw\">semaphore</a></i> building (left), <a rel=\"mw:WikiLink\" href=\"./Category:Chapelle_Saint-Jean_de_Plougonvelin\" title=\"Category:Chapelle Saint-Jean de Plougonvelin\">Chapel of Saint-Jean de Plougonvelin</a> (right), and the ruins of the <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Abbey%20of%20Saint-Mathieu%20de%20Fine-Terre\" title=\"en:Abbey of Saint-Mathieu de Fine-Terre\" class=\"extiw\">Abbey of Saint-Mathieu de Fine-Terre</a>. <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Plougonvelin\" title=\"en:Plougonvelin\" class=\"extiw\">Plougonvelin</a>, <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Finistère\" title=\"en:Finistère\" class=\"extiw\">Finistère</a>, France",
+      "text": "View of Pointe Saint-Mathieu with the lighthouse (center), semaphore building (left), Chapel of Saint-Jean de Plougonvelin (right), and the ruins of the Abbey of Saint-Mathieu de Fine-Terre. Plougonvelin, Finistère, France",
+      "lang": "en"
+    },
+    "wb_entity_id": "M178765988",
+    "structured": {
+      "captions": {
+        "fr": "Le sémaphore, l'abbaye Saint-Mathieu, le phare et la chapelle Notre-Dame-de-Grâce, sur la pointe Saint-Mathieu, à Plougonvelin (Bretagne - France).",
+        "zh-hant": "聖馬修角景觀，可見燈塔、信號塔（左）、普盧貢沃蘭聖讓禮拜堂（右）以及聖馬修修道院的遺跡。法國菲尼斯泰爾省普盧貢沃蘭"
+      }
+    }
+  },
+  "news": [
+    {
+      "links": [
+        {
+          "type": "standard",
+          "title": "BepiColombo",
+          "displaytitle": "<i>BepiColombo</i>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q113169",
+          "titles": {
+            "canonical": "BepiColombo",
+            "normalized": "BepiColombo",
+            "display": "<i>BepiColombo</i>"
+          },
+          "pageid": 551228,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/BepiColombo_stack_cropped.jpg/330px-BepiColombo_stack_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 443
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/BepiColombo_stack_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 2236,
+            "height": 3004
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1387413080",
+          "tid": "4c79a0d4-e782-11f1-8ec0-67638904630e",
+          "timestamp": "2026-11-23T21:10:24Z",
+          "description": "ESA/JAXA mission to study Mercury in orbit (since 2018)",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/BepiColombo",
+              "revisions": "https://en.wikipedia.org/wiki/BepiColombo?action=history",
+              "edit": "https://en.wikipedia.org/wiki/BepiColombo?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:BepiColombo"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/BepiColombo",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/BepiColombo",
+              "edit": "https://en.wikipedia.org/wiki/BepiColombo?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:BepiColombo"
+            }
+          },
+          "extract": "BepiColombo is a joint mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) to the planet Mercury. The mission comprises two orbiters: the Mercury Planetary Orbiter (MPO), built and operated by ESA, and Mio, built and operated by JAXA. Together the satellites will perform a comprehensive study of Mercury, including characterization of its magnetic field, magnetosphere, and both interior and surface structure.",
+          "extract_html": "<p><i><b>BepiColombo</b></i> is a joint mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA) to the planet Mercury. The mission comprises two orbiters: the <b>Mercury Planetary Orbiter</b> (<b>MPO</b>), built and operated by ESA, and <i><b>Mio</b></i>, built and operated by JAXA. Together the satellites will perform a comprehensive study of Mercury, including characterization of its magnetic field, magnetosphere, and both interior and surface structure.</p>",
+          "normalizedtitle": "BepiColombo"
+        },
+        {
+          "type": "standard",
+          "title": "European_Space_Agency",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">European Space Agency</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q42262",
+          "titles": {
+            "canonical": "European_Space_Agency",
+            "normalized": "European Space Agency",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">European Space Agency</span></span>"
+          },
+          "pageid": 10363,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c8/ESA_Patch_2026.svg/330px-ESA_Patch_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c8/ESA_Patch_2026.svg/330px-ESA_Patch_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 316,
+            "height": 316
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1387403280",
+          "tid": "ab87e8c3-e77b-11f1-b66d-8914f3e446f0",
+          "timestamp": "2026-11-23T20:22:57Z",
+          "description": "European organisation dedicated to space exploration",
+          "description_source": "local",
+          "coordinates": {
+            "lat": 48.84833333,
+            "lon": 2.30416667
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/European_Space_Agency",
+              "revisions": "https://en.wikipedia.org/wiki/European_Space_Agency?action=history",
+              "edit": "https://en.wikipedia.org/wiki/European_Space_Agency?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:European_Space_Agency"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/European_Space_Agency",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/European_Space_Agency",
+              "edit": "https://en.wikipedia.org/wiki/European_Space_Agency?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:European_Space_Agency"
+            }
+          },
+          "extract": "The European Space Agency is a 23-member international organisation devoted to space exploration. It has its headquarters in Paris and a staff of around 3,000 people globally as of 2025. ESA was founded in 1975 in the context of European integration. Its 2026 annual budget was around €8.3 billion.",
+          "extract_html": "<p>The <b>European Space Agency</b> is a 23-member international organisation devoted to space exploration. It has its headquarters in Paris and a staff of around 3,000 people globally as of 2025. ESA was founded in 1975 in the context of European integration. Its 2026 annual budget was around €8.3 billion.</p>",
+          "normalizedtitle": "European Space Agency"
+        },
+        {
+          "type": "standard",
+          "title": "JAXA",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">JAXA</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q179103",
+          "titles": {
+            "canonical": "JAXA",
+            "normalized": "JAXA",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">JAXA</span></span>"
+          },
+          "pageid": 716184,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Jaxa_logo.svg/330px-Jaxa_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 205
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Jaxa_logo.svg/500px-Jaxa_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 444,
+            "height": 276
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1387361444",
+          "tid": "78cdf7b6-e75b-11f1-8bc8-2fb001140047",
+          "timestamp": "2026-11-23T16:32:28Z",
+          "description": "Japan's national air and space agency",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/JAXA",
+              "revisions": "https://en.wikipedia.org/wiki/JAXA?action=history",
+              "edit": "https://en.wikipedia.org/wiki/JAXA?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:JAXA"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/JAXA",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/JAXA",
+              "edit": "https://en.wikipedia.org/wiki/JAXA?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:JAXA"
+            }
+          },
+          "extract": "The Japan Aerospace Exploration Agency (JAXA) is the operator of the Japanese space program and Japan's national aeronautics research agency. It was formed in 2003 through the merger of the Institute of Space and Astronautical Science, the National Aerospace Laboratory of Japan, and the National Space Development Agency of Japan.",
+          "extract_html": "<p>The <b>Japan Aerospace Exploration Agency</b> (<b>JAXA</b>) is the operator of the Japanese space program and Japan's national aeronautics research agency. It was formed in 2003 through the merger of the Institute of Space and Astronautical Science, the National Aerospace Laboratory of Japan, and the National Space Development Agency of Japan.</p>",
+          "normalizedtitle": "JAXA"
+        },
+        {
+          "type": "standard",
+          "title": "Mercury_(planet)",
+          "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mercury (planet)</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q308",
+          "titles": {
+            "canonical": "Mercury_(planet)",
+            "normalized": "Mercury (planet)",
+            "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mercury (planet)</span></span>"
+          },
+          "pageid": 19694,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/330px-Mercury_in_true_color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1040,
+            "height": 1040
+          },
+          "lang": "en",
+          "dir": "ltr",
+          "revision": "1387402313",
+          "tid": "fe14d52b-e77a-11f1-8f69-0a1d3b084e6c",
+          "timestamp": "2026-11-23T20:18:06Z",
+          "description": "First planet from the Sun",
+          "description_source": "local",
+          "content_urls": {
+            "desktop": {
+              "page": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+              "revisions": "https://en.wikipedia.org/wiki/Mercury_(planet)?action=history",
+              "edit": "https://en.wikipedia.org/wiki/Mercury_(planet)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Mercury_(planet)"
+            },
+            "mobile": {
+              "page": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+              "revisions": "https://en.wikipedia.org/wiki/Special:History/Mercury_(planet)",
+              "edit": "https://en.wikipedia.org/wiki/Mercury_(planet)?action=edit",
+              "talk": "https://en.wikipedia.org/wiki/Talk:Mercury_(planet)"
+            }
+          },
+          "extract": "Mercury is the first planet from the Sun and the smallest in the Solar System. It is a rocky planet with a trace atmosphere and a surface gravity slightly lower than that of Mars. The surface of Mercury is similar to Earth's Moon, being cratered, with an expansive rupes system generated from thrust faults, and bright ray systems, formed by ejecta. Its largest crater, Caloris Planitia, has a diameter of 1,550 km (960 mi), which is about one-third the diameter of the planet. Being the most inferior orbiting planet, it always appears close to the Sun in Earth's sky, as either a \"morning star\" or an \"evening star\". It is the planet with the highest delta-v required for travel from Earth, as well as to and from the other planets in the Solar System.",
+          "extract_html": "<p><b>Mercury</b> is the first planet from the Sun and the smallest in the Solar System. It is a rocky planet with a trace atmosphere and a surface gravity slightly lower than that of Mars. The surface of Mercury is similar to Earth's Moon, being cratered, with an expansive rupes system generated from thrust faults, and bright ray systems, formed by ejecta. Its largest crater, Caloris Planitia, has a diameter of 1,550 km (960 mi), which is about one-third the diameter of the planet. Being the most inferior orbiting planet, it always appears close to the Sun in Earth's sky, as either a \"morning star\" or an \"evening star\". It is the planet with the highest delta-v required for travel from Earth, as well as to and from the other planets in the Solar System.</p>",
+          "normalizedtitle": "Mercury (planet)"
+        }
+      ],
+      "story": "<!--Nov 21-->The joint <a rel=\"mw:WikiLink\" href=\"./European_Space_Agency\" title=\"European Space Agency\" id=\"mwBw\">ESA</a>–<a rel=\"mw:WikiLink\" href=\"./JAXA\" title=\"JAXA\" id=\"mwCA\">JAXA</a> mission <i id=\"mwCQ\"><b id=\"mwCg\"><a rel=\"mw:WikiLink\" href=\"./BepiColombo\" title=\"BepiColombo\" id=\"mwCw\">BepiColombo</a></b></i> <i id=\"mwDA\"></i> enters orbit around <a rel=\"mw:WikiLink\" href=\"./Mercury_(planet)\" title=\"Mercury (planet)\" id=\"mwDQ\">Mercury</a>."
+    }
+  ]
+}

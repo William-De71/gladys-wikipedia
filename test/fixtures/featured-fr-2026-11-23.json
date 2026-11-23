@@ -1,0 +1,633 @@
+{
+  "mostread": {
+    "date": "2026-11-22Z",
+    "articles": [
+      {
+        "type": "standard",
+        "title": "Hunger_Games_(série_de_films)",
+        "displaytitle": "<i><span lang=\"en\">Hunger Games</span></i> (série de films)",
+        "titles": {
+          "canonical": "Hunger_Games_(série_de_films)",
+          "normalized": "Hunger Games (série de films)",
+          "display": "<i><span lang=\"en\">Hunger Games</span></i> (série de films)"
+        },
+        "pageid": 7735499,
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Hunger_Games_%28Liongate_films%29_logo.svg/langfr-330px-The_Hunger_Games_%28Liongate_films%29_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 330,
+          "height": 127
+        },
+        "originalimage": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Hunger_Games_%28Liongate_films%29_logo.svg/langfr-330px-The_Hunger_Games_%28Liongate_films%29_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 313,
+          "height": 120
+        },
+        "lang": "fr",
+        "description": "pentalogie de science-fiction américaine",
+        "content_urls": {
+          "desktop": {
+            "page": "https://fr.wikipedia.org/wiki/Hunger_Games_(s%C3%A9rie_de_films)",
+            "revisions": "https://fr.wikipedia.org/wiki/Hunger_Games_(s%C3%A9rie_de_films)?action=history",
+            "edit": "https://fr.wikipedia.org/wiki/Hunger_Games_(s%C3%A9rie_de_films)?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:Hunger_Games_(s%C3%A9rie_de_films)"
+          },
+          "mobile": {
+            "page": "https://fr.wikipedia.org/wiki/Hunger_Games_(s%C3%A9rie_de_films)",
+            "revisions": "https://fr.wikipedia.org/wiki/Special:History/Hunger_Games_(s%C3%A9rie_de_films)",
+            "edit": "https://fr.wikipedia.org/wiki/Hunger_Games_(s%C3%A9rie_de_films)?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:Hunger_Games_(s%C3%A9rie_de_films)"
+          }
+        },
+        "extract": "Hunger Games est une franchise cinématographique de science-fiction américaine, basée sur la série littéraire dystopique du même nom de Suzanne Collins.",
+        "normalizedtitle": "Hunger Games (série de films)",
+        "views": 54210,
+        "rank": 3
+      },
+      {
+        "type": "standard",
+        "title": "Hunger_Games_:_La_Ballade_du_serpent_et_de_l'oiseau_chanteur_(film)",
+        "displaytitle": "<i>Hunger Games : La Ballade du serpent et de l'oiseau chanteur</i> (film)",
+        "titles": {
+          "canonical": "Hunger_Games_:_La_Ballade_du_serpent_et_de_l'oiseau_chanteur_(film)",
+          "normalized": "Hunger Games : La Ballade du serpent et de l'oiseau chanteur (film)",
+          "display": "<i>Hunger Games : La Ballade du serpent et de l'oiseau chanteur</i> (film)"
+        },
+        "pageid": 15112985,
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/fr/thumb/1/16/The_Hunger_Games_-_The_Ballad_of_Songbirds_and_Snakes.png/330px-The_Hunger_Games_-_The_Ballad_of_Songbirds_and_Snakes.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 330,
+          "height": 128
+        },
+        "originalimage": {
+          "source": "https://upload.wikimedia.org/wikipedia/fr/1/16/The_Hunger_Games_-_The_Ballad_of_Songbirds_and_Snakes.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 800,
+          "height": 310
+        },
+        "lang": "fr",
+        "description": "film américain de science-fiction réalisé par Francis Lawrence",
+        "content_urls": {
+          "desktop": {
+            "page": "https://fr.wikipedia.org/wiki/Hunger_Games_%3A_La_Ballade_du_serpent_et_de_l'oiseau_chanteur_(film)",
+            "revisions": "https://fr.wikipedia.org/wiki/Hunger_Games_%3A_La_Ballade_du_serpent_et_de_l'oiseau_chanteur_(film)?action=history",
+            "edit": "https://fr.wikipedia.org/wiki/Hunger_Games_%3A_La_Ballade_du_serpent_et_de_l'oiseau_chanteur_(film)?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:Hunger_Games_%3A_La_Ballade_du_serpent_et_de_l'oiseau_chanteur_(film)"
+          },
+          "mobile": {
+            "page": "https://fr.wikipedia.org/wiki/Hunger_Games_%3A_La_Ballade_du_serpent_et_de_l'oiseau_chanteur_(film)",
+            "revisions": "https://fr.wikipedia.org/wiki/Special:History/Hunger_Games_%3A_La_Ballade_du_serpent_et_de_l'oiseau_chanteur_(film)",
+            "edit": "https://fr.wikipedia.org/wiki/Hunger_Games_%3A_La_Ballade_du_serpent_et_de_l'oiseau_chanteur_(film)?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:Hunger_Games_%3A_La_Ballade_du_serpent_et_de_l'oiseau_chanteur_(film)"
+          }
+        },
+        "extract": "Hunger Games : La Ballade du serpent et de l'oiseau chanteur est un film américain de science-fiction réalisé par Francis Lawrence et sorti en 2023.",
+        "normalizedtitle": "Hunger Games : La Ballade du serpent et de l'oiseau chanteur (film)",
+        "views": 47035,
+        "rank": 4
+      },
+      {
+        "type": "standard",
+        "title": "David_Lisnard",
+        "displaytitle": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Lisnard</span></span>",
+        "titles": {
+          "canonical": "David_Lisnard",
+          "normalized": "David Lisnard",
+          "display": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Lisnard</span></span>"
+        },
+        "pageid": 2023150,
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/David_Lisnard_en_2026.jpg/330px-David_Lisnard_en_2026.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 330,
+          "height": 440
+        },
+        "originalimage": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/David_Lisnard_en_2026.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 1620,
+          "height": 2160
+        },
+        "lang": "fr",
+        "description": "homme politique français, maire de Cannes",
+        "content_urls": {
+          "desktop": {
+            "page": "https://fr.wikipedia.org/wiki/David_Lisnard",
+            "revisions": "https://fr.wikipedia.org/wiki/David_Lisnard?action=history",
+            "edit": "https://fr.wikipedia.org/wiki/David_Lisnard?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:David_Lisnard"
+          },
+          "mobile": {
+            "page": "https://fr.wikipedia.org/wiki/David_Lisnard",
+            "revisions": "https://fr.wikipedia.org/wiki/Special:History/David_Lisnard",
+            "edit": "https://fr.wikipedia.org/wiki/David_Lisnard?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:David_Lisnard"
+          }
+        },
+        "extract": "David Lisnard, né le 2 février 1969 à Limoges (Haute-Vienne), est un homme politique français.",
+        "normalizedtitle": "David Lisnard",
+        "views": 43759,
+        "rank": 5
+      },
+      {
+        "type": "standard",
+        "title": "Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
+        "displaytitle": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liste de sondages sur l&#039;élection présidentielle française de 2027</span></span>",
+        "titles": {
+          "canonical": "Liste_de_sondages_sur_l'élection_présidentielle_française_de_2027",
+          "normalized": "Liste de sondages sur l'élection présidentielle française de 2027",
+          "display": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liste de sondages sur l&#039;élection présidentielle française de 2027</span></span>"
+        },
+        "pageid": 15568607,
+        "lang": "fr",
+        "description": "page de liste de Wikimédia",
+        "content_urls": {
+          "desktop": {
+            "page": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+            "revisions": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027?action=history",
+            "edit": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
+          },
+          "mobile": {
+            "page": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+            "revisions": "https://fr.wikipedia.org/wiki/Special:History/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027",
+            "edit": "https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:Liste_de_sondages_sur_l'%C3%A9lection_pr%C3%A9sidentielle_fran%C3%A7aise_de_2027"
+          }
+        },
+        "extract": "\nCette page dresse la liste des sondages d'opinion relatifs à l'élection présidentielle française de 2027, qui se tiendra les dimanches 18 avril 2027 et 2 mai 2027.",
+        "normalizedtitle": "Liste de sondages sur l'élection présidentielle française de 2027",
+        "views": 42332,
+        "rank": 6
+      },
+      {
+        "type": "standard",
+        "title": "Marie-Josée_Gauvin",
+        "displaytitle": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Marie-Josée Gauvin</span></span>",
+        "titles": {
+          "canonical": "Marie-Josée_Gauvin",
+          "normalized": "Marie-Josée Gauvin",
+          "display": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Marie-Josée Gauvin</span></span>"
+        },
+        "pageid": 17128868,
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Marie-Jos%C3%A9e_Gauvin.jpg/330px-Marie-Jos%C3%A9e_Gauvin.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 330,
+          "height": 498
+        },
+        "originalimage": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Marie-Jos%C3%A9e_Gauvin.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 3264,
+          "height": 4928
+        },
+        "lang": "fr",
+        "description": "animatrice et autrice québécoise",
+        "content_urls": {
+          "desktop": {
+            "page": "https://fr.wikipedia.org/wiki/Marie-Jos%C3%A9e_Gauvin",
+            "revisions": "https://fr.wikipedia.org/wiki/Marie-Jos%C3%A9e_Gauvin?action=history",
+            "edit": "https://fr.wikipedia.org/wiki/Marie-Jos%C3%A9e_Gauvin?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:Marie-Jos%C3%A9e_Gauvin"
+          },
+          "mobile": {
+            "page": "https://fr.wikipedia.org/wiki/Marie-Jos%C3%A9e_Gauvin",
+            "revisions": "https://fr.wikipedia.org/wiki/Special:History/Marie-Jos%C3%A9e_Gauvin",
+            "edit": "https://fr.wikipedia.org/wiki/Marie-Jos%C3%A9e_Gauvin?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:Marie-Jos%C3%A9e_Gauvin"
+          }
+        },
+        "extract": "Marie-Josée Gauvin est une animatrice de radio et de télévision québécoise, également autrice et chroniqueuse.",
+        "normalizedtitle": "Marie-Josée Gauvin",
+        "views": 35157,
+        "rank": 7
+      },
+      {
+        "type": "standard",
+        "title": "Jean_Gabin",
+        "displaytitle": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jean Gabin</span></span>",
+        "titles": {
+          "canonical": "Jean_Gabin",
+          "normalized": "Jean Gabin",
+          "display": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jean Gabin</span></span>"
+        },
+        "pageid": 41246,
+        "thumbnail": {
+          "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Gabin_Harcourt_1948.jpg/330px-Gabin_Harcourt_1948.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "width": 330,
+          "height": 445
+        },
+        "originalimage": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Gabin_Harcourt_1948.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "width": 758,
+          "height": 1023
+        },
+        "lang": "fr",
+        "description": "acteur français",
+        "content_urls": {
+          "desktop": {
+            "page": "https://fr.wikipedia.org/wiki/Jean_Gabin",
+            "revisions": "https://fr.wikipedia.org/wiki/Jean_Gabin?action=history",
+            "edit": "https://fr.wikipedia.org/wiki/Jean_Gabin?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:Jean_Gabin"
+          },
+          "mobile": {
+            "page": "https://fr.wikipedia.org/wiki/Jean_Gabin",
+            "revisions": "https://fr.wikipedia.org/wiki/Special:History/Jean_Gabin",
+            "edit": "https://fr.wikipedia.org/wiki/Jean_Gabin?action=edit",
+            "talk": "https://fr.wikipedia.org/wiki/Discussion:Jean_Gabin"
+          }
+        },
+        "extract": "Jean Gabin, né le 17 mai 1904 dans le 9e arrondissement de Paris et mort le 15 novembre 1976 à Neuilly-sur-Seine, est un acteur français.",
+        "normalizedtitle": "Jean Gabin",
+        "views": 34067,
+        "rank": 8
+      }
+    ]
+  },
+  "image": {
+    "title": "File:Pointe Saint Mathieu - Phare.jpg",
+    "thumbnail": {
+      "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pointe_Saint_Mathieu_-_Phare.jpg/960px-Pointe_Saint_Mathieu_-_Phare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "width": 640,
+      "height": 354
+    },
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pointe_Saint_Mathieu_-_Phare.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "width": 6000,
+      "height": 3319
+    },
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pointe_Saint_Mathieu_-_Phare.jpg",
+    "artist": {
+      "html": "<a href=\"//commons.wikimedia.org/wiki/User:JackyM59\" title=\"User:JackyM59\">JackyM59</a>",
+      "text": "JackyM59",
+      "name": "JackyM59",
+      "user_page": "https://commons.wikimedia.org/wiki/User:JackyM59"
+    },
+    "credit": {
+      "html": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+      "text": "Own work"
+    },
+    "license": {
+      "type": "CC BY-SA 4.0",
+      "code": "cc-by-sa-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "description": {
+      "html": "Le sémaphore, l'abbaye Saint-Mathieu, le phare et la chapelle Notre-Dame-de-Grâce, sur la pointe Saint-Mathieu, à Plougonvelin (Bretagne - France).",
+      "text": "Le sémaphore, l'abbaye Saint-Mathieu, le phare et la chapelle Notre-Dame-de-Grâce, sur la pointe Saint-Mathieu, à Plougonvelin (Bretagne - France).",
+      "lang": "fr"
+    },
+    "wb_entity_id": "M178765988",
+    "structured": {
+      "captions": {
+        "fr": "Le sémaphore, l'abbaye Saint-Mathieu, le phare et la chapelle Notre-Dame-de-Grâce, sur la pointe Saint-Mathieu, à Plougonvelin (Bretagne - France).",
+        "zh-hant": "聖馬修角景觀，可見燈塔、信號塔（左）、普盧貢沃蘭聖讓禮拜堂（右）以及聖馬修修道院的遺跡。法國菲尼斯泰爾省普盧貢沃蘭"
+      }
+    }
+  },
+  "news": [
+    {
+      "links": [
+        {
+          "type": "standard",
+          "title": "United_States_(paquebot)",
+          "displaytitle": "<i>United States</i> (paquebot)",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1545509",
+          "titles": {
+            "canonical": "United_States_(paquebot)",
+            "normalized": "United States (paquebot)",
+            "display": "<i>United States</i> (paquebot)"
+          },
+          "pageid": 821642,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/StateLibQld_1_169487_United_States_%28ship%29.jpg/330px-StateLibQld_1_169487_United_States_%28ship%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 210
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/8e/StateLibQld_1_169487_United_States_%28ship%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1000,
+            "height": 635
+          },
+          "lang": "fr",
+          "dir": "ltr",
+          "revision": "241491874",
+          "tid": "3060c1ee-e45b-11f1-a311-8582a28d62b3",
+          "timestamp": "2026-11-19T20:52:53Z",
+          "description": "paquebot transatlantique américain",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 30.1191,
+            "lon": -86.7793
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://fr.wikipedia.org/wiki/United_States_(paquebot)",
+              "revisions": "https://fr.wikipedia.org/wiki/United_States_(paquebot)?action=history",
+              "edit": "https://fr.wikipedia.org/wiki/United_States_(paquebot)?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:United_States_(paquebot)"
+            },
+            "mobile": {
+              "page": "https://fr.wikipedia.org/wiki/United_States_(paquebot)",
+              "revisions": "https://fr.wikipedia.org/wiki/Special:History/United_States_(paquebot)",
+              "edit": "https://fr.wikipedia.org/wiki/United_States_(paquebot)?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:United_States_(paquebot)"
+            }
+          },
+          "extract": "Le United States, surnommé en anglais « The Big U », est un paquebot transatlantique américain de la compagnie United States Lines. Il est construit de 1950 à 1952 sous la direction de l'architecte naval William Francis Gibbs avec le soutien du gouvernement américain, dans le but de doter le pays d'un navire fiable et rapide qui puisse effectuer du transport de passagers en temps de paix, mais également des transports de troupes dans l'éventualité d'un conflit entre les États-Unis et l'URSS. Il est affecté à la ligne de l'Atlantique Nord, New York—Le Havre—Southampton.",
+          "extract_html": "<p>Le <i><b>United States</b></i>, surnommé en anglais « <i><b>The Big U</b></i> », est un paquebot transatlantique américain de la compagnie United States Lines. Il est construit de 1950 à 1952 sous la direction de l'architecte naval William Francis Gibbs avec le soutien du gouvernement américain, dans le but de doter le pays d'un navire fiable et rapide qui puisse effectuer du transport de passagers en temps de paix, mais également des transports de troupes dans l'éventualité d'un conflit entre les États-Unis et l'URSS. Il est affecté à la ligne de l'Atlantique Nord, New York—Le Havre—Southampton.</p>",
+          "normalizedtitle": "United States (paquebot)"
+        },
+        {
+          "type": "standard",
+          "title": "11_novembre",
+          "displaytitle": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">11 novembre</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2987",
+          "titles": {
+            "canonical": "11_novembre",
+            "normalized": "11 novembre",
+            "display": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">11 novembre</span></span>"
+          },
+          "pageid": 3789,
+          "lang": "fr",
+          "dir": "ltr",
+          "revision": "241474020",
+          "tid": "1fc8331e-e3f2-11f1-b593-230fc196070d",
+          "timestamp": "2026-11-19T08:20:48Z",
+          "description": "date",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://fr.wikipedia.org/wiki/11_novembre",
+              "revisions": "https://fr.wikipedia.org/wiki/11_novembre?action=history",
+              "edit": "https://fr.wikipedia.org/wiki/11_novembre?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:11_novembre"
+            },
+            "mobile": {
+              "page": "https://fr.wikipedia.org/wiki/11_novembre",
+              "revisions": "https://fr.wikipedia.org/wiki/Special:History/11_novembre",
+              "edit": "https://fr.wikipedia.org/wiki/11_novembre?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:11_novembre"
+            }
+          },
+          "extract": "Le 11 novembre est le 315e jour de l'année du calendrier grégorien, 316e lorsqu'elle est bissextile.",
+          "extract_html": "<p>Le <b>11 novembre</b> est le <abbr class=\"abbr\">315<sup>e</sup></abbr> jour de l'année du calendrier grégorien, <abbr class=\"abbr\">316<sup>e</sup></abbr> lorsqu'elle est bissextile.</p>",
+          "normalizedtitle": "11 novembre"
+        },
+        {
+          "type": "standard",
+          "title": "Novembre_2026",
+          "displaytitle": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Novembre 2026</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q60634686",
+          "titles": {
+            "canonical": "Novembre_2026",
+            "normalized": "Novembre 2026",
+            "display": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Novembre 2026</span></span>"
+          },
+          "pageid": 17143571,
+          "lang": "fr",
+          "dir": "ltr",
+          "revision": "241578882",
+          "tid": "b1f06593-e696-11f1-9567-ce0a7848ea38",
+          "timestamp": "2026-11-22T17:03:53Z",
+          "description": "mois de 2026",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://fr.wikipedia.org/wiki/Novembre_2026",
+              "revisions": "https://fr.wikipedia.org/wiki/Novembre_2026?action=history",
+              "edit": "https://fr.wikipedia.org/wiki/Novembre_2026?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:Novembre_2026"
+            },
+            "mobile": {
+              "page": "https://fr.wikipedia.org/wiki/Novembre_2026",
+              "revisions": "https://fr.wikipedia.org/wiki/Special:History/Novembre_2026",
+              "edit": "https://fr.wikipedia.org/wiki/Novembre_2026?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:Novembre_2026"
+            }
+          },
+          "extract": "Cette page présente les faits marquants du mois de novembre 2026.",
+          "extract_html": "<p>Cette page présente les faits marquants du mois de <b><span class=\"nowrap\">novembre 2026</span></b>.</p>",
+          "normalizedtitle": "Novembre 2026"
+        },
+        {
+          "type": "standard",
+          "title": "Sabordage",
+          "displaytitle": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sabordage</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1786766",
+          "titles": {
+            "canonical": "Sabordage",
+            "normalized": "Sabordage",
+            "display": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sabordage</span></span>"
+          },
+          "pageid": 1061732,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/DKM_Admiral_Graf_Spee.jpg/330px-DKM_Admiral_Graf_Spee.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 222
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/DKM_Admiral_Graf_Spee.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 350,
+            "height": 235
+          },
+          "lang": "fr",
+          "dir": "ltr",
+          "revision": "241466185",
+          "tid": "99cacb84-e396-11f1-9933-31aee60ff76c",
+          "timestamp": "2026-11-18T21:25:39Z",
+          "description": "fait de couler volontairement un bateau",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://fr.wikipedia.org/wiki/Sabordage",
+              "revisions": "https://fr.wikipedia.org/wiki/Sabordage?action=history",
+              "edit": "https://fr.wikipedia.org/wiki/Sabordage?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:Sabordage"
+            },
+            "mobile": {
+              "page": "https://fr.wikipedia.org/wiki/Sabordage",
+              "revisions": "https://fr.wikipedia.org/wiki/Special:History/Sabordage",
+              "edit": "https://fr.wikipedia.org/wiki/Sabordage?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:Sabordage"
+            }
+          },
+          "extract": "Le sabordage est un terme de marine désignant le fait de couler volontairement un bateau par l'équipage ou un membre de l'équipage et consiste à créer une ou plusieurs voies d'eau. Les moyens utilisés peuvent être l'ouverture de vannes ou de sas, ou bien la création d'une ouverture dans la carène en dessous de la ligne de flottaison à l'aide d'outils ou d'explosifs.",
+          "extract_html": "<p>Le <b>sabordage</b> est un terme de marine désignant le fait de couler volontairement un bateau par l'équipage ou un membre de l'équipage et consiste à créer une ou plusieurs voies d'eau. Les moyens utilisés peuvent être l'ouverture de vannes ou de sas, ou bien la création d'une ouverture dans la carène en dessous de la ligne de flottaison à l'aide d'outils ou d'explosifs.</p>",
+          "normalizedtitle": "Sabordage"
+        },
+        {
+          "type": "standard",
+          "title": "Golfe_du_Mexique",
+          "displaytitle": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Golfe du Mexique</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q12630",
+          "titles": {
+            "canonical": "Golfe_du_Mexique",
+            "normalized": "Golfe du Mexique",
+            "display": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Golfe du Mexique</span></span>"
+          },
+          "pageid": 14499,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/GulfofMexico3D.jpg/330px-GulfofMexico3D.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 270
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/GulfofMexico3D.jpg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3000,
+            "height": 2451
+          },
+          "lang": "fr",
+          "dir": "ltr",
+          "revision": "241397652",
+          "tid": "6f1623e9-e19e-11f1-a058-1e0a34293527",
+          "timestamp": "2026-11-16T09:16:41Z",
+          "description": "golfe en Amérique du Nord baignant le Mexique et le sud-est des États-Unis",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 25.25,
+            "lon": -89.75
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://fr.wikipedia.org/wiki/Golfe_du_Mexique",
+              "revisions": "https://fr.wikipedia.org/wiki/Golfe_du_Mexique?action=history",
+              "edit": "https://fr.wikipedia.org/wiki/Golfe_du_Mexique?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:Golfe_du_Mexique"
+            },
+            "mobile": {
+              "page": "https://fr.wikipedia.org/wiki/Golfe_du_Mexique",
+              "revisions": "https://fr.wikipedia.org/wiki/Special:History/Golfe_du_Mexique",
+              "edit": "https://fr.wikipedia.org/wiki/Golfe_du_Mexique?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:Golfe_du_Mexique"
+            }
+          },
+          "extract": "Le golfe du Mexique est une mer bordière de l'océan Atlantique située au sud-sud-est de l'Amérique du Nord.",
+          "extract_html": "<p>Le <b>golfe du Mexique</b> est une mer bordière de l'océan Atlantique située au sud-sud-est de l'Amérique du Nord.</p>",
+          "normalizedtitle": "Golfe du Mexique"
+        },
+        {
+          "type": "standard",
+          "title": "Comté_d'Okaloosa",
+          "displaytitle": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Comté d&#039;Okaloosa</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q494476",
+          "titles": {
+            "canonical": "Comté_d'Okaloosa",
+            "normalized": "Comté d'Okaloosa",
+            "display": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Comté d&#039;Okaloosa</span></span>"
+          },
+          "pageid": 2712118,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Okaloosa_County%2C_Florida.svg/langfr-330px-Flag_of_Okaloosa_County%2C_Florida.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 211
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Okaloosa_County%2C_Florida.svg/langfr-1920px-Flag_of_Okaloosa_County%2C_Florida.svg.png?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1672,
+            "height": 1071
+          },
+          "lang": "fr",
+          "dir": "ltr",
+          "revision": "241327574",
+          "tid": "bdcd8d63-dfe7-11f1-a311-10218134cf1a",
+          "timestamp": "2026-11-14T04:56:24Z",
+          "description": "comté de la Floride, aux États-Unis",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 30.67,
+            "lon": -86.59
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://fr.wikipedia.org/wiki/Comt%C3%A9_d'Okaloosa",
+              "revisions": "https://fr.wikipedia.org/wiki/Comt%C3%A9_d'Okaloosa?action=history",
+              "edit": "https://fr.wikipedia.org/wiki/Comt%C3%A9_d'Okaloosa?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:Comt%C3%A9_d'Okaloosa"
+            },
+            "mobile": {
+              "page": "https://fr.wikipedia.org/wiki/Comt%C3%A9_d'Okaloosa",
+              "revisions": "https://fr.wikipedia.org/wiki/Special:History/Comt%C3%A9_d'Okaloosa",
+              "edit": "https://fr.wikipedia.org/wiki/Comt%C3%A9_d'Okaloosa?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:Comt%C3%A9_d'Okaloosa"
+            }
+          },
+          "extract": "Le comté d'Okaloosa est un comté situé sur l'Emerald Coast de l'État de Floride, aux États-Unis. Sa population s'élève à 211 668 habitants lors du recensement de 2020. Son siège est Crestview, tandis que sa ville la plus peuplée est Fort Walton Beach.",
+          "extract_html": "<p>Le <b>comté d'Okaloosa</b> est un comté situé sur l'Emerald Coast de l'État de Floride, aux États-Unis. Sa population s'élève à 211 668 habitants lors du recensement de 2020. Son siège est Crestview, tandis que sa ville la plus peuplée est Fort Walton Beach.</p>",
+          "normalizedtitle": "Comté d'Okaloosa"
+        },
+        {
+          "type": "standard",
+          "title": "Récif_artificiel",
+          "displaytitle": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Récif artificiel</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q985843",
+          "titles": {
+            "canonical": "Récif_artificiel",
+            "normalized": "Récif artificiel",
+            "display": "<span lang=\"fr\" dir=\"ltr\"><span class=\"mw-page-title-main\">Récif artificiel</span></span>"
+          },
+          "pageid": 290181,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Blue_Linckia_Starfish.JPG/330px-Blue_Linckia_Starfish.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 440
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Blue_Linckia_Starfish.JPG?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1200,
+            "height": 1600
+          },
+          "lang": "fr",
+          "dir": "ltr",
+          "revision": "241364270",
+          "tid": "c8fbe79e-e0cf-11f1-9233-57c2e2d9ae79",
+          "timestamp": "2026-11-15T08:37:26Z",
+          "description": "type de récif",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://fr.wikipedia.org/wiki/R%C3%A9cif_artificiel",
+              "revisions": "https://fr.wikipedia.org/wiki/R%C3%A9cif_artificiel?action=history",
+              "edit": "https://fr.wikipedia.org/wiki/R%C3%A9cif_artificiel?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:R%C3%A9cif_artificiel"
+            },
+            "mobile": {
+              "page": "https://fr.wikipedia.org/wiki/R%C3%A9cif_artificiel",
+              "revisions": "https://fr.wikipedia.org/wiki/Special:History/R%C3%A9cif_artificiel",
+              "edit": "https://fr.wikipedia.org/wiki/R%C3%A9cif_artificiel?action=edit",
+              "talk": "https://fr.wikipedia.org/wiki/Discussion:R%C3%A9cif_artificiel"
+            }
+          },
+          "extract": "Un récif artificiel est une structure immergée volontairement, à des fins d'étude scientifique, de protection physique d'un lieu, de production halieutique ou de loisir. La plupart des récifs artificiels concernent des milieux marins, mais quelques expérimentations ont porté sur des eaux douces ou saumâtres estuariennes. Dans la plupart des cas, les récifs artificiels sont colonisés en quelques mois, en attirant de nombreuses espèces de poissons et crustacés.",
+          "extract_html": "<p>Un <b>récif artificiel</b> est une structure immergée volontairement, à des fins d'étude scientifique, de protection physique d'un lieu, de production halieutique ou de loisir. La plupart des récifs artificiels concernent des milieux marins, mais quelques expérimentations ont porté sur des eaux douces ou saumâtres estuariennes. Dans la plupart des cas, les récifs artificiels sont colonisés en quelques mois, en attirant de nombreuses espèces de poissons et crustacés.</p>",
+          "normalizedtitle": "Récif artificiel"
+        }
+      ],
+      "story": "<time class=\"nowrap date-lien\" datetime=\"2026-11-11\" data-sort-value=\"2026-11-11\"><a rel=\"mw:WikiLink\" href=\"./11_novembre\" title=\"11 novembre\">11</a> <a rel=\"mw:WikiLink\" href=\"./Novembre_2026\" title=\"Novembre 2026\">novembre</a></time><span typeof=\"mw:DisplaySpace\">&nbsp;</span>: <a rel=\"mw:WikiLink\" href=\"./Sabordage\" title=\"Sabordage\">sabordage</a> du paquebot <i><b><span class=\"lang-en\" lang=\"en\"><a rel=\"mw:WikiLink\" href=\"./United_States_(paquebot)\" title=\"United States (paquebot)\">United States</a></span></b></i> dans le <a rel=\"mw:WikiLink\" href=\"./Golfe_du_Mexique\" title=\"Golfe du Mexique\">golfe du Mexique</a> au large du <a rel=\"mw:WikiLink\" href=\"./Comté_d'Okaloosa\" title=\"Comté d'Okaloosa\">comté d'Okaloosa</a> pour en faire le plus grand <a rel=\"mw:WikiLink\" href=\"./Récif_artificiel\" title=\"Récif artificiel\">récif artificiel</a> du monde."
+    }
+  ]
+}
